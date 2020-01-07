@@ -1,0 +1,195 @@
+/*   prevent small screen font size inflation */
+
+body {
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+}
+
+
+
+body {
+  line-height: 1.5;
+}
+
+
+/* main theme colors */
+
+.remark-slide-content {
+  
+  background-color: #272822;
+  color: #d6d6d6;
+  
+}
+
+/* text colors */
+
+a {
+  color: rgb(249, 38, 114);
+}
+
+
+.red {
+  color: rgb(249, 38, 114);
+}
+
+.lightgray {
+  color: #999;
+}
+
+.gray {
+  color: #555;
+}
+
+.darkgray {
+  color: #333;
+}
+
+.vdarkgray {
+  color: #272822;
+}
+
+.inverse {
+  text-shadow: none;
+}
+
+.space {
+  color: #272822;
+}
+
+.purple {
+  color: #c8d;
+}
+
+h1, h2, h3, h4 {
+  color: #e9f;
+}
+
+
+/*  boxes */
+
+
+.example {
+  padding: 10px 30px;
+  border-radius: 10px;
+  background-color: #ccc;
+  color: black;
+  box-shadow: 8px 8px 10px #111;
+  margin-bottom: 10px;
+  line-height: 1.5;
+  }
+
+.argument {
+  padding: 10px 30px;
+  border-radius: 10px;
+  background-color: #ccc;
+  color: black;
+  box-shadow: 8px 8px 10px #111;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul ul, ol ul {
+  list-style-type: none;
+}
+
+.note {
+  font-size: smaller;
+  color: #c8d;
+  line-height: 110%;
+}
+
+/* creative commons symbol for title page */
+
+img[alt="cc"] {
+  max-width: 25px;
+  vertical-align: middle;
+}
+
+/* images -- can be scaled with macro */
+
+img.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 4px 4px 15px #111;
+}
+
+.double {
+  line-height: 130%;
+}
+
+.double ul {
+  line-height: 130%;
+}
+
+.wide {
+  line-height: 170%;
+}
+
+.wide ul {
+  line-height: 170%;
+}
+
+/* for final slide */
+
+.credits {
+  font-size: small;
+}
+
+/* redo tables  */
+
+.remark-slide table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+
+.remark-slide table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+.remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) { background: #222 }
+
+.remark-slide-number {
+  font-size: small;
+}
+
+.myright-column {
+  width: 75%;
+  float: right;
+  padding-top: 0;
+ }
+ 
+.smaller-text {
+  font-size: smaller;
+  line-height: 1.5;
+}
+
+.medium-text {
+  font-size: medium;
+  line-height: 1.5;
+}
+
+.topcap {
+  color: #c8d;
+  font-size: x-large;
+  font-style: italic;
+  margin-left: 10%;
+}
+
+.narrow-text {
+  
+  width: 75%;
+  margin: auto;
+  
+}
+
+ul > li {
+  list-style-type: circle;
+}
+
+blockquote {
+  border-radius: 15px;
+}

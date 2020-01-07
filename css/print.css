@@ -1,0 +1,154 @@
+body {
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+.red{
+  color: black;
+  font-weight: bold;
+}
+
+.purple {
+  color: black;
+  font-weight: bold;
+}
+
+.darkgray {
+  color: #ccc;
+}
+
+.example {
+  padding: 10px 40px;
+  border-radius: 10px;
+  border: 1px dotted black;
+  color: black;
+  margin-bottom: 10px;
+  line-height: 1.5;
+  }
+
+.argument {
+  padding: 10px 30px;
+  border-radius: 10px;
+  border: 1px dotted black;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.
+ul ul, ol ul {
+  list-style-type: none;
+}
+
+.note {
+  font-size: smaller;
+  line-height: 110%;
+}
+
+/* creative commons symbol for title page */
+
+img[alt="cc"] {
+  max-width: 25px;
+  vertical-align: middle;
+}
+
+/* images -- can be scaled with macro */
+
+img.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 5px;
+  }
+
+
+.double {
+  line-height: 130%;
+}
+
+.double ul {
+  line-height: 130%;
+}
+
+.wide {
+  line-height: 170%;
+}
+
+.wide ul {
+  line-height: 170%;
+}
+
+/* for final slide */
+
+.credits {
+  font-size: small;
+}
+
+/* redo tables  */
+
+.remark-slide table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+
+.remark-slide table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+.remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) { background: #222 }
+
+.remark-slide-number {
+  font-size: small;
+}
+
+.myright-column {
+  width: 75%;
+  float: right;
+  padding-top: 1em;
+  line-height: 1.5;
+}
+
+.smaller-text {
+  font-size: smaller;
+  line-height: 1.5;
+}
+
+.medium-text {
+  font-size: medium;
+  line-height: 1.5;
+}
+
+.topcap {
+  color: black;
+  font-size: x-large;
+  font-style: italic;
+  margin-left: 10%;
+}
+
+.narrow-text {
+  
+  width: 75%;
+  margin: auto;
+  
+}
+
+.remark-slide-number {
+  display: none;
+}
+
+.remark-slide thead {
+  background: none;
+}
+
+.remark-slide tr:nth-child(2n) {
+  background: none;
+}
+
+h4 {
+  font-weight: bold;
+  color: black;
+}
