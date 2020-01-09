@@ -8,6 +8,6 @@ output:
     nature:
       sourceUrl: "01-introduction-src.Rmd"
       countIncrementalSlides: false
-      beforeInit: "macros.js"
+      beforeInit: "js/macros.js"
       
 ---

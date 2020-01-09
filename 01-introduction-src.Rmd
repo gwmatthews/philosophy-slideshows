@@ -1,10 +1,10 @@
 class: middle center
 
-### *What is Philosophy*
+# *What is Philosophy?*
 
 *an introduction* 
 
-![:scale 50%, #222;](img/01/david-socrates.jpg)
+![:scale 50%, #ddd;](img/01/david-socrates.jpg)
 
 George Matthews, Pennsylvania College of Technology
 
@@ -13,13 +13,433 @@ George Matthews, Pennsylvania College of Technology
 .note[press "h" for help on keyboard controls]
 
 ---
+## *What is philosophy?*
 
-### *The examined life*
+--
 
+.left-column[
+
+<br><br>
+
+![:portrait Socrates, 470-399 BCE, 80%](img/01/socrates.jpg)
+
+]
+
+--
+
+.right-list[
+
+"The unexamined life is not worth living."
+
+]
+
+--
+
+.right-list[
+
+- One of the founders of Western philosophy, Socrates spent his life encouraging others to critically examine their fundamental values and assumptions.
+
+]
+
+--
+
+.right-list[
+
+- He was executed for "corrupting the youth."
+
+]
+
+--
+
+.right-column[
+
+.question[
+
+Why did people find Socrates' questions so threatening that they killed an old man who would likely soon pass away anyway?
+
+]
+
+]
+
+---
+layout: true
+### *philo-sophia*
+
+---
+
+--
+
+The word "philosophy" comes from the Greek words for "love of wisdom."
+
+--
+ 
+- Philosophy seeks understanding of the nature of reality and the significance of our lives by applying critical reasoning to our deepest and most general beliefs.
+
+--
+
+- It draws out basic assumptions, by asking questions with all of the wonder of children.
+
+--
+
+- And it subjects them to careful analysis with all of the precision of a lawyer.
+
+---
+
+.caution[
+
+.red[Science] also seeks to understand reality, but it differs from philosophy in its method of evaluating its claims.
+
+]
+
+--
+
+- If you are wrong in science your predictions fail, or you blow up the lab.
+
+--
+
+- If you are wrong in philosophy, your principles and most general beliefs conflict with each other and your mind is at odds with itself.
+
+--
+
+- Failure to clarify one's life philosophically may seem unimportant, yet for Socrates such an un-examined life misses what is most valuable about being human.
+
+
+---
+
+.caution[
+
+.red[Religion] addresses the significance of our lives, but it differs from philosophy in how it proceeds.
+
+]
+
+--
+
+- Religion emerges from the spontaneous ways we make meaning in our lives. It often embraces mythical and magical thinking which places us at the center of life's drama.
+
+--
+
+- Philosophy seeks clarification and justification and asks how we might find meaning in a world even where it might not be all about us.
 
 ---
 layout: false
 
+## *Philosophical questions*
+
+.leftbar[
+<br><br><br>
+![:portrait Socrates, 470-399 BCE, 80%](img/01/socrates.jpg)
+]
+
+--
+
+.middletext[
+
+<br><br>
+
+.left-blurb[
+
+"How should I live my life? In pursuit of power and money or in pursuit of wisdom?" 
+
+]
+
+]
+
+--
+
+.right-list[
+
+- This is not a question about how we do in fact live but of how we *should* live.
+
+]
+
+--
+
+.right-list[
+
+- Such *normative* questions challenge us to give an account of ourselves, our values and our assumptions.
+
+]
+
+--
+
+.right-list[
+
+- Socrates' question is a question in the sub-field of philosophy called .red[value theory] or .red[axiology].
+
+]
+
+---
+layout: false
+
+## *Philosophical questions*
+
+.leftbar[
+<br><br><br>
+![:portrait Rene Descartes, 1596-1650, 80%](img/01/descartes.jpg)
+]
+
+--
+
+.middletext[
+
+<br><br>
+
+.left-blurb[
+
+"What can I know with any degree of certainty, when my senses so often mislead me?"
+
+]
+
+]
+
+--
+
+.right-list[
+
+- Descartes asked this question at the beginning of the Scientific Revolution when old certainties were revealed to be based on false assumptions.
+
+]
+
+--
+
+.right-list[
+
+- Answering it requires clarifying the nature of knowledge and its varieties.
+
+]
+
+--
+
+.right-list[
+
+- This is a question in the sub-field of philosophy called .red[epistemology] or .red[theory of knowledge].
+
+]
+
+---
+layout: false
+
+## *Philosophical questions*
+
+.leftbar[
+<br><br><br>
+![:portrait Martin Heidegger, 1889-1976, 80%](img/01/heidegger.jpg)
+]
+
+--
+
+.middletext[
+
+<br><br>
+
+.left-blurb[
+
+"Why is there something and not just nothing at all?"
+
+]
+
+]
+
+--
+
+.right-list[
+
+- Philosophical questions are often much more general than questions we normally encounter.
+
+]
+
+--
+
+.right-list[
+
+- Science seeks answers to particular questions about the regularities in the world of our experience and shrinks away from such general questions as being unanswerable.
+
+]
+
+--
+
+.right-list[
+
+- This is a question in the sub-field of philosophy called .red[metaphysics] or .red[ontology] which seeks an account of the basic nature of reality.
+
+]
+
+---
+layout: true
+
+## *The philosopher's toolkit*
+
+---
+
+
+---
+layout: true
+
+### *Socrates and  Thrasymachus debate justice*
+
+<br><br>
+---
+
+--
+
+- As an example of how philosophical analysis proceeds, consider the following dialogue between Socrates and Thrasymachus, a contemporary of Socrates who held that philosophical questioning was irrelevant.
+
+--
+
+- For Thrasymachus, might makes right in the sense that the powerful get to define what key ideas like "justice" really mean.
+
+--
+
+- Socrates, on the other hand highlights how true wisdom alone can guide us and so we must let logic lead the way.
+
+---
+.leftbar[
+
+<br><br><br>
+
+![:portrait Socrates, 470-399 BCE, 80%](img/01/socrates.jpg)
+]
+
+.middletext[
+
+<br><br>
+
+.left-blurb[
+
+What is Justice?
+
+]
+]
+
+.rightbar[
+
+<br><br><br>
+
+![:portrait Thrasymachus, 4th century BCE, 80%](img/01/thrasymachus.jpg)
+
+]
+
+---
+
+.leftbar[
+
+<br><br><br>
+
+![:portrait Socrates, 470-399 BCE, 80%](img/01/socrates.jpg)
+
+]
+
+.middletext[
+
+<br><br>
+
+.right-blurb[
+
+Whatever the powerful say it is?
+
+]
+
+]
+
+.rightbar[
+
+<br><br><br>
+
+![:portrait Thrasymachus, 4th century BCE, 80%](img/01/thrasymachus.jpg)
+
+]
+---
+
+
+.leftbar[
+
+<br><br><br>
+
+![:portrait Socrates, 470-399 BCE, 80%](img/01/socrates.jpg)
+
+]
+
+.middletext[
+
+<br><br>
+
+.left-blurb[
+
+So you say that might makes right? But even the powerful makes mistakes, right?
+
+]
+
+]
+
+.rightbar[
+
+<br><br><br>
+
+![:portrait Thrasymachus, 4th century BCE, 80%](img/01/thrasymachus.jpg)
+
+]
+---
+.leftbar[
+
+<br><br><br>
+
+![:portrait Socrates, 470-399 BCE, 80%](img/01/socrates.jpg)
+
+]
+
+.middletext[
+
+<br><br>
+
+.right-blurb[
+
+Yes and what are you getting at?
+
+]
+
+]
+
+.rightbar[
+
+<br><br><br>
+
+![:portrait Thrasymachus, 4th century BCE, 80%](img/01/thrasymachus.jpg)
+
+]
+
+---
+.leftbar[
+
+<br><br><br>
+
+![:portrait Socrates, 470-399 BCE, 80%](img/01/socrates.jpg)
+
+]
+
+.middletext[
+
+<br><br>
+
+.left-blurb[
+
+Well even the powerful rely on something more powerful than them, what is truly in their best interests.
+
+]
+
+]
+
+.rightbar[
+
+<br><br><br>
+
+![:portrait Thrasymachus, 4th century BCE, 80%](img/01/thrasymachus.jpg)
+
+]
+
+
+---
+
+layout: false
 ### *Find out more*
 
 
@@ -34,7 +454,7 @@ layout: false
 ---
 class: center credits
 
-![:scale 50%, #222;](img/01/g-1.jpg)
+![:scale 50%, #ddd;](img/01/g-1.jpg)
 
 #### Credits
 
@@ -44,7 +464,7 @@ class: center credits
 
 [xarignan](https://github.com/yihui/xaringan) html presentation framework 
 
-*Photos by:*
+<!-- *Photos by:* -->
 
 
 

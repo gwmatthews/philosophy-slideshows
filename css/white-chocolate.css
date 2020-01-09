@@ -6,7 +6,6 @@ body {
   -ms-text-size-adjust: none;
 }
 
-
 body {
   line-height: 1.5;
 }
@@ -15,21 +14,22 @@ body {
 
 .remark-slide-content {
   
-background-color: #fff;
+background-color: #fef5e7;
   
 }
 
-
 .red {
+  color: #EE0066;
   font-weight: bold;
+  text-shadow: 2px 2px 5px #999;
 }
 
 /*  boxes */
 
-
 .example {
   padding: 10px 30px;
   border-radius: 10px;
+  box-shadow: 8px 8px 10px #111;
   margin-bottom: 10px;
   line-height: 1.5;
   }
@@ -37,11 +37,11 @@ background-color: #fff;
 .argument {
   padding: 10px 30px;
   border-radius: 10px;
-  width: 85%; 
+  background-color: #fae5d3;
+  width: 85%;
   margin-left: auto;
   margin-right: auto;
 }
-
 
 .caution, .question, .notice {
   font-size: large;
@@ -51,12 +51,11 @@ background-color: #fff;
   margin-bottom: 20px;
   border-radius: 10px;
   border: 1px dashed #aaa;
-  background: #fff 10px center/3em no-repeat;
+  background: #fae5d3 10px center/3em no-repeat;
   width: 85%;
   margin-left:auto;
   margin-right: auto;
 }
-
 
 .caution {
   background-image: url("../img/caution.png");
@@ -99,6 +98,7 @@ img.photo {
   margin-right: auto;
   text-align: center;
   border-radius: 5px;
+  box-shadow: 4px 4px 15px #111;
 }
 
 /* for final slide */
@@ -120,7 +120,7 @@ img.photo {
  
 .right-list ul {
   
-margin: 0.5em;
+  margin: 0.5em;
 }
  
 .smaller-text {
@@ -165,15 +165,16 @@ blockquote {
   border-radius: 15px;
 }
 
-
 /* Create three unequal columns that floats next to each other */
 .leftbar {
+  color: #777;
   width: 20%;
   height: 92%;
   float: left;
 }
 
 .rightbar {
+  color: #777;
   width: 20%;
   height: 92%;
   float: right;
@@ -199,7 +200,7 @@ blockquote {
 }
 
 .left-blurb p  {
-  background-color: #fff;
+  background-color: #fee4d6;
   display: block;
   margin-top: auto;
   margin-left: 1.5em;
@@ -209,7 +210,8 @@ blockquote {
   position: absolute;
   bottom: 30px;
   left: 0;
- }
+  box-shadow: 1px 2px 4px #999;
+}
 
 
 .right-blurb {
@@ -224,7 +226,7 @@ blockquote {
 }
 
 .right-blurb p  {
-  background-color: #fff;
+  background-color: #fee4d6;
   display: block;
   margin-top: auto;
   margin-right: 1.5em;
@@ -234,4 +236,5 @@ blockquote {
   position: absolute;
   bottom: 30px;
   right: 0;
+  box-shadow: 1px 2px 4px #999;
 }
