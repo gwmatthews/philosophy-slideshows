@@ -667,6 +667,8 @@ layout: false
 ---
 class: center credits
 
+<br>
+
 ![:credited Rembrandt "Anatomy Lesson", 50%, #ddd;](img/01/rembrandt-anatomy.jpg)
 
 #### Credits
@@ -680,7 +682,6 @@ class: center credits
 *Photos by:*
 
 ![:jump WikiImages](https://pixabay.com/users/wikiimages-1897/) at Pixabay.
-
 
 
 [download this presentation](./pdf/01-introduction.pdf) or [print it](./pdf/01-introduction-print.pdf)
