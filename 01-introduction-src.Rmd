@@ -4,13 +4,11 @@ class: middle center
 
 *an introduction* 
 
-![:scale 50%, #ddd;](img/01/david-socrates.jpg)
+![:credited Jacques-Louis David "The Death of Socrates", 50%, #ddd;](img/01/david-socrates.jpg)
 
 George Matthews, Pennsylvania College of Technology
 
 *2020*
-
-.note[press "h" for help on keyboard controls]
 
 ---
 ## *What is philosophy?*
@@ -74,7 +72,7 @@ layout: true
 
 --
 
-The word "philosophy" comes from the Greek words for "love of wisdom."
+The word "philosophy" comes from the Greek words for "love" (*philos*) and "wisdom" (*sophia*) and might be literally translated as "the love or pursuit of wisdom."
 
 --
  
@@ -82,11 +80,19 @@ The word "philosophy" comes from the Greek words for "love of wisdom."
 
 --
 
-- It draws out basic assumptions, by asking questions with all of the wonder of children.
+- It draws out basic assumptions, by asking questions with all of the wonder of a child.
 
 --
 
 - And it subjects them to careful analysis with all of the precision of a lawyer.
+
+--
+
+.question[
+
+What is the difference between wisdom and knowledge? Can one know things without being wise or the other way around?
+
+]
 
 ---
 
@@ -96,18 +102,19 @@ The word "philosophy" comes from the Greek words for "love of wisdom."
 
 ]
 
---
-
-- If you are wrong in science your predictions fail, or you blow up the lab.
+<br>
 
 --
 
-- If you are wrong in philosophy, your principles and most general beliefs conflict with each other and your mind is at odds with itself.
+- If you are wrong in science your predictions fail, or you accidentally blow up the lab.
 
 --
 
-- Failure to clarify one's life philosophically may seem unimportant, yet for Socrates such an un-examined life misses what is most valuable about being human.
+- If you are wrong in philosophy, your principles and most general beliefs conflict with each other and so your mind is at odds with itself.
 
+--
+
+- Failure to clarify one's life philosophically may seem unimportant, yet for Socrates not doing so is to lead an "unexamined life" and miss out on what is most valuable and unique about being human.
 
 ---
 
@@ -117,13 +124,19 @@ The word "philosophy" comes from the Greek words for "love of wisdom."
 
 ]
 
---
-
-- Religion emerges from the spontaneous ways we make meaning in our lives. It often embraces mythical and magical thinking which places us at the center of life's drama.
+<br>
 
 --
 
-- Philosophy seeks clarification and justification and asks how we might find meaning in a world even where it might not be all about us.
+- Religion emerges from the spontaneous ways we make meaning in our lives. It often embraces mythical and magical thinking, which place us at the center of life's drama.
+
+--
+
+- Philosophy seeks clarification and justification and asks how we might find meaning, even in a world where we are not at the center of things.
+
+--
+
+- Philosophy is fundamentally "humanistic" since it trusts our ability to figure things out, while religion often appeals to faith, emphasizing the limits of our ability to comprehend things.
 
 ---
 layout: false
@@ -186,7 +199,7 @@ layout: false
 
 .pull-right[
 
-![:scale 80%, #123;](img/01/g-1.jpg)
+![:scale 80%, #123;](img/01/abolish-wikiimages.jpg)
 
 ]
 
@@ -236,7 +249,7 @@ layout: false
 
 .right-list[
 
-- Descartes asked this question at the beginning of the Scientific Revolution when old certainties were revealed to be based on false assumptions.
+- Descartes asked this question at the beginning of the Scientific Revolution when old "certainties" were revealed to be based on false assumptions.
 
 ]
 
@@ -244,7 +257,7 @@ layout: false
 
 .right-list[
 
-- Answering it requires clarifying the nature of knowledge and its varieties.
+- Answering it requires clarifying the nature and limitations of knowledge.
 
 ]
 
@@ -268,7 +281,7 @@ layout: false
 
 .pull-right[
 
-![:scale 80%, #123;](img/01/g-1.jpg)
+![:scale 80%, #123;](img/01/crystals-wikiimages.jpg)
 
 ]
 
@@ -328,7 +341,7 @@ layout: false
 
 .right-list[
 
-- Science seeks answers to particular questions about the regularities in the world of our experience and shrinks away from such general questions as being unanswerable.
+- Science seeks answers to particular questions about the regularities in the world of our experience and shrinks away from such general questions as this.
 
 ]
 
@@ -352,7 +365,7 @@ layout: false
 
 .pull-right[
 
-![:scale 80%, #123;](img/01/g-1.jpg)
+![:scale 80%, #123;](img/01/galaxy-wikiimages.jpg)
 
 ]
 
@@ -368,11 +381,11 @@ layout: false
 
 --
 
-- How is freedom even possible in a world where everything that happens seems to have a cause outside of itself?
+- How is human freedom even possible in a world where everything that happens seems to be caused by external forces?
 
 --
 
-- Does God exist?  This question is related to epistemological questions about religion (How can we know for sure?), and value theiry questions (What does it matter?) as well.
+- Does God exist, and how might we be able to tell?
 
 ---
 layout: true
@@ -384,7 +397,7 @@ layout: true
 --
 
 .caution[
-Since philosophy potentially asks us to examine *all* of our assumptions, there can be no fixed method for doing philosophy - historically speaking there have been many.
+Since philosophy asks us to examine *all* of our assumptions, there can be no fixed method for doing philosophy - historically speaking there have been many different approaches.
 ]
 
 --
@@ -393,15 +406,15 @@ Over time, however, certain useful principles have been developed.
 
 --
 
-- Explicitly state our assumptions -- this can be a challenge since they *are* assumptions.
+- Explicitly state our assumptions -- this can be a challenge since they *are* assumptions after all.
 
 --
 
-- Draw out their logical implications -- do theses fit well with each other or do they clash with other ideas we have?
+- Draw out their logical implications -- do these assumptions fit well with each other and do they clash with other ideas we have?
 
 --
 
-- Make lots of distinctions. (Also the reason for the bad reputation of philosophers! Splitting hairs, or distinguishing real differences? It can be hard to tell.)
+- Make lots of distinctions. (Philosophers have a bad reputation for "splitting hairs," but we think it is important to be precise in our use of language.)
 
 ---
 layout: true
@@ -421,7 +434,7 @@ layout: true
 
 --
 
-- Socrates, on the other hand highlights how true wisdom alone can guide us and so we must let logic lead the way.
+- Socrates, on the other hand highlights how true wisdom alone can guide us and so we must let logical reasoning lead the way.
 
 ---
 .leftbar[
@@ -437,7 +450,7 @@ layout: true
 
 .left-blurb[
 
-What is Justice?
+What is Justice anyway? It seems to me that Justice requires wisdom.
 
 ]
 ]
@@ -466,7 +479,7 @@ What is Justice?
 
 .right-blurb[
 
-Whatever the powerful say it is?
+Nonsense. Justice is defined as whatever people with power say it is. Might makes right!
 
 ]
 
@@ -480,7 +493,6 @@ Whatever the powerful say it is?
 
 ]
 ---
-
 
 .leftbar[
 
@@ -496,7 +508,7 @@ Whatever the powerful say it is?
 
 .left-blurb[
 
-So you say that might makes right? But even the powerful makes mistakes, right?
+But can't powerful people be mistaken about what is in their own best interests?
 
 ]
 
@@ -553,7 +565,7 @@ Yes and what are you getting at?
 
 .left-blurb[
 
-Well even the powerful rely on something more powerful than them, what is truly in their best interests.
+Well if powerful people can be wrong about what they want and need, how can they figure out what is best for them?
 
 ]
 
@@ -567,25 +579,95 @@ Well even the powerful rely on something more powerful than them, what is truly 
 
 ]
 
+---
+
+
+.leftbar[
+
+<br><br><br>
+
+![:portrait Socrates, 470-399 BCE, 80%](img/01/socrates.jpg)
+
+]
+
+.middletext[
+
+<br><br>
+
+.right-blurb[
+
+I don't know.
+
+]
+
+]
+
+.rightbar[
+
+<br><br><br>
+
+![:portrait Thrasymachus, 4th century BCE, 80%](img/01/thrasymachus.jpg)
+
+]
+
+---
+
+.leftbar[
+
+<br><br><br>
+
+![:portrait Socrates, 470-399 BCE, 80%](img/01/socrates.jpg)
+
+]
+
+.middletext[
+
+<br><br>
+
+.left-blurb[
+
+By discovering the truth and letting *it* be their guide! So might doesn't really make right after all.
+
+]
+
+]
+
+.rightbar[
+
+<br><br><br>
+
+![:portrait Thrasymachus, 4th century BCE, 80%](img/01/thrasymachus.jpg)
+
+]
+
+---
+
+- Socrates' point is the even if we may deny that reasoning and knowledge can guide us because money and power are what rule the world, we all are guided by what we think is true. 
+
+--
+
+- So we may as well figure out what is really true and that is what philosophy is all about.
+
+--
+
+- Reality does have the last word after all...
 
 ---
 
 layout: false
 ### *Find out more*
 
-
-
-
-
 ![:jump Socrates on self-confidence](https://youtu.be/_gVyEOefhIQ) and questioning others about their values. A great video outlining the motivation for doing philosophy in the first place.
 
+![:jump What is Philosophy?](https://youtu.be/1A_CAkYt3GY): The Crash Course is a series of short, entertaining and infromative videos produced by the Green bothers John and Hank. Here Hank Green gives his take on what philosophy is.
 
+![:jump How to Argue](https://youtu.be/NKEhdsnKKHs): the second video in the Crash Course Philosophy series outlines the basics of philosophical reasoning and argumentation.
 
 
 ---
 class: center credits
 
-![:scale 50%, #ddd;](img/01/g-1.jpg)
+![:credited Rembrandt "Anatomy Lesson", 50%, #ddd;](img/01/rembrandt-anatomy.jpg)
 
 #### Credits
 
@@ -595,7 +677,9 @@ class: center credits
 
 ![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
 
-<!-- *Photos by:* -->
+*Photos by:*
+
+![:jump WikiImages](https://pixabay.com/users/wikiimages-1897/) at Pixabay.
 
 
 

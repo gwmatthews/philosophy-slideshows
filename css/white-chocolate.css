@@ -107,6 +107,13 @@ img.photo {
   font-size: small;
 }
 
+.image-credits {
+  font-size: x-small;
+  text-align: center;
+  margin-top: 0;
+  padding-top: 0;
+}
+
 .remark-slide-number {
   font-size: small;
 }
@@ -123,8 +130,8 @@ img.photo {
   margin: 0.5em;
 }
  
-.smaller-text {
-  font-size: smaller;
+.small-text {
+  font-size: small;
   line-height: 1.5;
 }
 
