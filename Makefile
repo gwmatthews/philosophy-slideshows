@@ -1,26 +1,31 @@
-FILES=01-introduction.html 01-introduction.pdf 01-Print.pdf 01-introduction-print.pdf \
-02-religion.html 02-religion.pdf 02-Print.pdf 02-religion-print.pdf \
+RMD_FILES = $(filter-out $(wildcard *-src.Rmd), $(wildcard *.Rmd))
 
+HTML_FILES=$(patsubst %.Rmd, %.html, $(RMD_FILES))
 
-all : $(FILES)
-	echo All files are now up to date
-	
-cleantex :
-	rm -f ./pdf/*.log
-	rm -f ./pdf/*.synctex.gz
-	rm -f ./pdf/*.aux
+PDF_FILES=$(patsubst %.html, %.pdf, $(HTML_FILES))
+
+.PHONY : all
+all : $(HTML_FILES) $(PDF_FILES) cleanup
+
+.PHONY : cleanup
+cleanup :
 	rm -f ./pdf/*-Print.pdf
 	
-clean :
-	rm -f ./*.html
-	rm -f ./pdf/*.pdf
 
-%.html : %.Rmd
-	R -e 'rmarkdown::render("$<", output_file = "$@")'
+# Create print version of slideshow
+%-print.pdf : %-print.tex
+	pdflatex "$<"
+
+# Read print verion of html and convert to pdf
 
 %.pdf : %.html
 	R -e 'pagedown::chrome_print("$<", "pdf/$@")'
 
-%.pdf : %.tex
-	pdflatex -output-directory pdf $< 
+# process RmD to html
+
+%.html : %.Rmd
+	R -e 'rmarkdown::render("$<", output_file = "$@")'
 	
+clean :
+	rm -f ./*.html
+	rm -f ./pdf/*.pdf
