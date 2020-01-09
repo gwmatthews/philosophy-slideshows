@@ -20,7 +20,7 @@ background-color: #fef5e7;
 
 .red {
   color: #EE0066;
-  font-weight: bold;
+  font-size: 110%;
   text-shadow: 2px 2px 5px #999;
 }
 
@@ -238,3 +238,4 @@ blockquote {
   right: 0;
   box-shadow: 1px 2px 4px #999;
 }
+

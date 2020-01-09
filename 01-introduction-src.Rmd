@@ -27,10 +27,15 @@ George Matthews, Pennsylvania College of Technology
 
 --
 
-.right-list[
+.middletext[
+
+<br>
+
+.left-blurb[
 
 "The unexamined life is not worth living."
 
+]
 ]
 
 --
@@ -51,7 +56,7 @@ George Matthews, Pennsylvania College of Technology
 
 --
 
-.right-column[
+.right-list[
 
 .question[
 
@@ -122,8 +127,9 @@ The word "philosophy" comes from the Greek words for "love of wisdom."
 
 ---
 layout: false
-
 ## *Philosophical questions*
+
+--
 
 .leftbar[
 <br><br><br>
@@ -167,6 +173,40 @@ layout: false
 - Socrates' question is a question in the sub-field of philosophy called .red[value theory] or .red[axiology].
 
 ]
+
+---
+layout: false
+
+.pull-left[
+
+<br>
+
+### .center[.red[*More value theory questions...*]]
+]
+
+.pull-right[
+
+![:scale 80%, #123;](img/01/g-1.jpg)
+
+]
+
+<br>
+
+--
+
+- Is morality in the eye of the beholder or are some things *really* right or wrong?
+
+--
+
+- Can the ends ever justify the means, or should some things just never be done?
+
+--
+
+- What would a just society look like and how might we get there from here?
+
+--
+
+- What is the value of art and should artists care about who their work might offend?
 
 ---
 layout: false
@@ -219,7 +259,43 @@ layout: false
 ---
 layout: false
 
+.pull-left[
+
+<br>
+
+### .center[.red[*More epistemological questions...*]]
+]
+
+.pull-right[
+
+![:scale 80%, #123;](img/01/g-1.jpg)
+
+]
+
+<br>
+
+--
+
+- How can we distinguish between appearances and reality?
+
+--
+
+- What counts as evidence, proof, or disproof and how does logical reasoning work?
+
+--
+
+- What is science and how do we distinguish it from pretenders to science?
+
+--
+
+- What is truth and is it singular or plural?
+
+
+
+---
+layout: false
 ## *Philosophical questions*
+
 
 .leftbar[
 <br><br><br>
@@ -265,17 +341,72 @@ layout: false
 ]
 
 ---
+layout: false
+
+.pull-left[
+
+<br>
+
+### .center[.red[*More metaphysical questions...*]]
+]
+
+.pull-right[
+
+![:scale 80%, #123;](img/01/g-1.jpg)
+
+]
+
+<br>
+
+--
+
+- What sorts of things exist -- only matter, or minds/souls/disembodied spirits as well?
+
+--
+
+- What *is* the relationship between minds and brains, and can we build an artificial brain that actually has a mind?
+
+--
+
+- How is freedom even possible in a world where everything that happens seems to have a cause outside of itself?
+
+--
+
+- Does God exist?  This question is related to epistemological questions about religion (How can we know for sure?), and value theiry questions (What does it matter?) as well.
+
+---
 layout: true
 
 ## *The philosopher's toolkit*
 
 ---
 
+--
+
+.caution[
+Since philosophy potentially asks us to examine *all* of our assumptions, there can be no fixed method for doing philosophy - historically speaking there have been many.
+]
+
+--
+
+Over time, however, certain useful principles have been developed.
+
+--
+
+- Explicitly state our assumptions -- this can be a challenge since they *are* assumptions.
+
+--
+
+- Draw out their logical implications -- do theses fit well with each other or do they clash with other ideas we have?
+
+--
+
+- Make lots of distinctions. (Also the reason for the bad reputation of philosophers! Splitting hairs, or distinguishing real differences? It can be hard to tell.)
 
 ---
 layout: true
 
-### *Socrates and  Thrasymachus debate justice*
+### *Socrates and Thrasymachus debate justice*
 
 <br><br>
 ---
