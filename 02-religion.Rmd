@@ -9,4 +9,4 @@ output:
       sourceUrl: "02-religion-src.Rmd"
       countIncrementalSlides: false
       beforeInit: "js/macros.js" 
---- 
+---
