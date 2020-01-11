@@ -12,7 +12,7 @@ remark.macros.jump = function (linkText) {
 
 remark.macros.portrait = function (person, dates, percentage) {
   var url = this;
-  return '<div class="center"> <img class="photo" src="' +  url  + '" style="width:' + percentage  + '; border: 4px solid white;" ><span class="bottomcap">' + person + ': <br> ' + dates +  '</span></div>' ;
+  return '<div class="center"> <img class="photo" src="' +  url  + '" style="width:' + percentage  + '; border: 4px solid white;" ><span class="bottomcap">' + person + ' <br> ' + dates +  '</span></div>' ;
   
 };
 

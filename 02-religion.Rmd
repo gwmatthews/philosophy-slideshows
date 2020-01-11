@@ -7,6 +7,6 @@ output:
     lib_dir: libs
     nature:
       sourceUrl: "02-religion-src.Rmd"
-      countIncrementalSlides: false
+      countIncrementalSlides: true
       beforeInit: "js/macros.js" 
 ---

@@ -4,14 +4,146 @@ class: middle center
 
 .red[*UNDER CONSTRUCTION*]
 
-![:scale 50%, #ddd;](img/construction.jpg)
+![:credited Dorothea Lange "Crossroads Store", 50%, #ddd;](img/03/lange_crossroads_store.jpg)
 
 George Matthews, Pennsylvania College of Technology
 
 *2020*
 
 ---
-## *Religion and philosophy*
+## *The Runaway Traincar*
+
+
+---
+layout: false
+## *Cultural Relativism*
+
+.left-column[
+
+<br><br>
+
+![:portrait Ruth Benedict, 1887-1948, 80%](img/03/benedict.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"There are many answers to questions of right and wrong."
+
+]
+]
+
+--
+
+.right-list[
+
+- Ruth Benedict was an American anthrpologist whose encounters with indigeous peoples convinced her that there was no universally valid set of moral principles.
+
+]
+
+--
+
+.right-list[
+
+- For her, culture and community, not reason and humanity, dictate moral principles.
+
+]
+
+---
+layout: false
+## *Cultural Relativism*
+
+.left-column[
+
+<br><br>
+
+![:portrait Ruth Benedict, 1887-1948, 80%](img/03/benedict.jpg)
+
+]
+
+--
+
+.topcap[The argument from cultural differences]
+
+--
+
+.right-argument[
+
+Different cultures have different views about right and wrong.
+
+***
+
+Thus there are no universal moral principles.
+
+]
+
+--
+
+.right-list[
+
+- This may seem like an obvious argument, and yet...
+
+]
+
+--
+
+.wide-list[
+
+- Does it really follow that there are no principles simply because people may disagree about *what they are*? We disagree about many things, but that doesn't establish that there are no facts.
+
+]
+
+
+--
+
+
+---
+layout: false
+## *Divine Command Theory*
+
+.left-column[
+
+<br><br>
+
+![:portrait God, , 80%](img/03/god.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"Thou shalt not kill!"
+
+]
+]
+
+--
+
+.right-list[
+
+- This theory is popular among those who see religion as providing an authoritative set of moral principles.
+
+]
+
+--
+
+.right-list[
+
+- It offers an account of the meaning of moral principles -- they are to be understood as commands issued by a supreme being.
+
+]
+
 
 ---
 
@@ -29,7 +161,9 @@ layout: false
 ---
 class: center credits
 
-![:scale 50%, #ddd;](img/01/g-1.jpg)
+<br>
+
+![:credited Garry Winogrand "Flip", 50%, #ddd;](img/03/winogrand_flip.jpg)
 
 #### Credits
 

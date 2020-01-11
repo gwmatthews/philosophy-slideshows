@@ -23,7 +23,7 @@ George Matthews, Pennsylvania College of Technology
 
 --
 
-- **Religious studies:** what are the practices, beleifs and histories of the many different world religions?
+- **Religious studies:** what are the practices, beliefs and histories of the many different world religions?
 
 --
 
@@ -70,7 +70,7 @@ George Matthews, Pennsylvania College of Technology
 
 .right-list[
 
-- If so, in what form? As a supernatural being, as identical with nature, as many disemobdied spirits?
+- If so, in what form? As a supernatural being, as identical with nature, as many disembodied spirits?
 
 ]
 --
@@ -639,7 +639,7 @@ Appeals to faith are a double-edged sword. If there are .red[no reasons] offered
 
 .right-list[
 
-- Epicurus was a Greek philosopher whose was skeptical of religion and advocated enjoying life to the fullest.
+- Epicurus was a Greek philosopher who was skeptical of religion and advocated enjoying life to the fullest.
 
 ]
 
@@ -690,7 +690,7 @@ Thus such a God does not exist.
 
 .wide-list[
 
-- Can this defense deal with "natural evils" like disease or natural disasters wihtout blaming the victim?
+- Can this defense deal with "natural evils" like disease or natural disasters without blaming the victim?
 
 ]
 
@@ -771,6 +771,80 @@ Thus we should accept that God exists.
 ---
 ## *Buddhism*
 
+.left-column[
+
+<br><br>
+
+![:portrait Buddha, 4th Century BCE, 80%](img/02/buddha.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"What we believe about ultimate questions is less important than how we live."
+]
+]
+
+--
+
+.right-list[
+
+- Born Siddhartha Gautama, heir to a royal family, the founder of Buddhism sought a solution to the human suffering that inevitably arises from the impermanence of everything and our tendency to cling to things anyway.
+
+]
+
+--
+
+.right-list[
+
+- Buddhism spread throughout Asia and now takes a multitude of forms, but all emphasize self-discipline and not being too attached to things in the world.
+
+]
+
+---
+## *Buddhism*
+
+.left-column[
+
+<br><br>
+
+![:portrait Buddha, 4th Century BCE, 80%](img/02/buddha.jpg)
+
+]
+
+--
+
+.topcap[The Parable of the Arrow]
+
+--
+
+.right-argument[
+
+Argiung about God, the universe and the soul is like arguing about who exactly just shot you with an arrow and why.
+
+It's more important to pull the arrow out.
+
+***
+
+Likewise with religion, dealing with human suffering not the ultimate nature of things should be the focus.
+
+]
+
+--
+
+.wide-list[
+
+- Is Buddhism even a religion or instead a philosophical, ethical or agnostic spiritual system? That is not clear and maybe does not matter so much... 
+
+]
+
+
 ---
 
 layout: false
@@ -778,15 +852,11 @@ layout: false
  
 ![:jump Anselm and the Argument for God](https://youtu.be/FmTsS5xFA6k): Hank Green explores Anselm's ontological argument in this episode of The Crash Course.
 
-![:jump Aquinas and the Cosmological Arguments](https://youtu.be/TgisehuGOyY): ore from te crash course, this time dealing with St. Thomas Aquinas' "five ways" to establish the existence of God.
+![:jump Aquinas and the Cosmological Arguments](https://youtu.be/TgisehuGOyY): more from the Crash Course, this time dealing with St. Thomas Aquinas' "five ways" to establish the existence of God.
 
+![:jump Religion Facts](http://www.religionfacts.com/): this is a great website for exploring the many varieties of religion from around the world and throughout history.
 
-
-
-
-
-
-
+![:jump Philosophy of Religion](https://www.iep.utm.edu/religion/): a comprehensive overview of the major issues in this sub-field of philosophy from the *Internet Encyclopedia of Philosophy*.
 
 ---
 class: center credits
