@@ -380,11 +380,15 @@ layout: false
 
 ]
 
+--
+
 .topcap[
 
 The Cosmological Argument
 
 ]
+
+--
 
 .right-argument[
 
@@ -429,6 +433,8 @@ So the universe as a whole has a cause -- God.
 
 ]
 ]
+
+--
 
 .right-list[
 
@@ -515,11 +521,15 @@ Thus a perfect being must exist -- God.
 ]
 ]
 
+--
+
 .right-list[
 
 - William Paley was an Anglican minister whose "natural theology" was taken to be the best explanation for biological complexity until Darwin challenged it.
 
 ]
+
+--
 
 .right-list[
 
@@ -543,6 +553,8 @@ Thus a perfect being must exist -- God.
 Paley's Watch
 
 ]
+
+--
 
 .right-argument[
 
@@ -602,10 +614,159 @@ Appeals to faith are a double-edged sword. If there are .red[no reasons] offered
 ---
 ## *Atheism and the problem of evil*
 
+.left-column[
+
+<br><br>
+
+![:portrait Epicurus, 341-270 BCE, 80%](img/02/epicurus.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"The existence of evil proves that God does not exist."
+
+]
+]
+
+--
+
+.right-list[
+
+- Epicurus was a Greek philosopher whose was skeptical of religion and advocated enjoying life to the fullest.
+
+]
+
+--
+
+.right-list[
+
+- He argued against religious belief in an era when it was almost universally accepted.
+
+]
 
 ---
-## *Pascal's wager*
+## *Atheism and the problem of evil*
 
+.left-column[
+
+<br><br>
+
+![:portrait Epicurus, 341-270 BCE, 80%](img/02/epicurus.jpg)
+
+]
+
+.topcap[The Argument from Evil]
+
+--
+
+.right-argument[
+
+If there is an all-powerful, all-knowing and all-good God, then evil should not exist.
+
+But evil does exist.
+
+***
+
+Thus such a God does not exist.
+
+]
+
+--
+
+.wide-list[
+
+- One typical response to this argument is to blame evil on human free will -- *we* would be at fault then, and not God.
+
+]
+
+--
+
+.wide-list[
+
+- Can this defense deal with "natural evils" like disease or natural disasters wihtout blaming the victim?
+
+]
+
+---
+## *Belief and uncertainty*
+
+.left-column[
+
+<br><br>
+
+![:portrait Blaise Pascal, 1623-1662, 80%](img/02/pascal.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"We are all compelled to gamble."
+
+]
+]
+
+--
+
+.right-list[
+
+- Blaise Pascal was deeply religious, but also a mathematician and gambler who laid the foundations of probability theory.
+
+]
+
+--
+.right-list[
+
+- Pascal offers an argument in defense of belief in God that assumes that we cannot know for sure whether or not God exists.
+
+]
+
+---
+## *Belief and uncertainty*
+
+.left-column[
+
+<br><br>
+
+![:portrait Blaise Pascal, 1623-1662, 80%](img/02/pascal.jpg)
+
+]
+
+.topcap[Pascal's Wager]
+
+--
+
+.right-argument[
+
+There is no direct evidence for or against God's existence.
+
+But the risk of not believing is far worse than that of believing.
+
+***
+
+Thus we should accept that God exists.
+
+]
+
+--
+
+.wide-list[
+
+- This argument may show that we have a *motive* to believe in avoiding punishment for unbelief *if* God turns out to exist, but is that really a *reason* to think the conclusion is true?
+
+]
 
 ---
 ## *Buddhism*
@@ -630,7 +791,7 @@ layout: false
 ---
 class: center credits
 
-![:scale 50%, #ddd;](img/01/g-1.jpg)
+![:scale 50%, #ddd;](img/02/church-4-valter-cirillio.jpg)
 
 #### Credits
 
