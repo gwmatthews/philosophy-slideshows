@@ -10,8 +10,6 @@ George Matthews, Pennsylvania College of Technology
 
 *2020*
 
-.note[press "h" for help on keyboard controls]
-
 ---
 ## *Living in the Material World*
 
