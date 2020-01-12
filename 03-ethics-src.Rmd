@@ -2,9 +2,11 @@ class: middle center
 
 # *Philosophical Ethics*
 
-.red[*UNDER CONSTRUCTION*]
+.red[*debating right and wrong*]
 
-![:credited Dorothea Lange "Crossroads Store", 50%, #ddd;](img/03/lange_crossroads_store.jpg)
+![:scale #ddd;](img/construction.png)
+
+<!-- ![:credited Dorothea Lange "Crossroads Store", 50%, #ddd;](img/03/lange_crossroads_store.jpg) -->
 
 George Matthews, Pennsylvania College of Technology
 
@@ -73,6 +75,8 @@ layout: false
 
 --
 
+<br>
+
 .right-argument[
 
 Different cultures have different views about right and wrong.
@@ -85,7 +89,7 @@ Thus there are no universal moral principles.
 
 --
 
-.right-list[
+.wide-list[
 
 - This may seem like an obvious argument, and yet...
 

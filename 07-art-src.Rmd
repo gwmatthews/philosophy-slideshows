@@ -2,9 +2,9 @@ class: middle center
 
 # *Aesthetics*
 
-.red[*UNDER CONSTRUCTION*]
+.red[*taste, value and aesthetic judgement*]
 
-![:scale 50%, #ddd;](img/construction.jpg)
+![:scale 50%, #ddd;](img/construction.png)
 
 George Matthews, Pennsylvania College of Technology
 

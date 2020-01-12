@@ -1,10 +1,10 @@
 class: middle center
 
-# *Knowledge*
+# *Knowledge and Skepticism*
 
-.red[*UNDER CONSTRUCTION*]
+.red[*What can we really know?*]
 
-![:scale 50%, #ddd;](img/construction.jpg)
+![:scale 50%, #ddd;](img/construction.png)
 
 George Matthews, Pennsylvania College of Technology
 

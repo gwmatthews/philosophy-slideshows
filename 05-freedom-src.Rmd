@@ -2,9 +2,9 @@ class: middle center
 
 # *Freedom and Determinism*
 
-.red[*UNDER CONSTRUCTION*]
+.red[*How can we be free in a world of causes?*]
 
-![:scale 50%, #ddd;](img/construction.jpg)
+![:scale 50%, #ddd;](img/construction.png)
 
 George Matthews, Pennsylvania College of Technology
 
