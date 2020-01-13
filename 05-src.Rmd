@@ -1,0 +1,50 @@
+class: middle center
+
+# *Freedom and Determinism*
+
+.red[*How can we be free in a world of causes?*]
+
+![:scale 50%, #ddd;](img/construction.png)
+
+George Matthews, Pennsylvania College of Technology
+
+*2020*
+
+---
+## *Living in the Material World*
+
+---
+
+layout: false
+### *Find out more*
+
+
+
+
+
+
+
+
+
+---
+class: center credits
+
+![:scale 50%, #ddd;](img/01/g-1.jpg)
+
+#### Credits
+
+*Built with:*
+
+![:jump Rstudio](https://rstudio.com/products/rstudio/) 
+
+![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+<!-- *Photos by:* -->
+
+
+
+[download this presentation](./pdf/05-slides.pdf) or [print it](./pdf/05-handout.pdf)
+
+![:jump editorial suggestions and comments](https://github.com/gwmatthews/philosophy-slideshows/issues): requires a (free) GitHub account.
+
+

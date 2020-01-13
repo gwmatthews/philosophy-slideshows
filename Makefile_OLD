@@ -1,0 +1,44 @@
+RMD=$(filter-out $(wildcard *-src.Rmd), $(wildcard *.Rmd))
+SRC=$(filter $(wildcard *-src.Rmd), $(wildcard *.Rmd))
+TEX:=$(wildcard *.tex)
+HTML:=$(patsubst %.Rmd, %.html, $(RMD))
+PDF:=$(patsubst %.html, %.pdf, $(HTML))
+PDF:=$(addprefix pdf/, $(PDF))
+PRINT_HTML:=$(filter $(wildcard *Print.html), $(HTML))
+WEB_HTML:=$(filter-out $(wildcard *Print.html), $(HTML))
+DOWNLOAD_PDF:=$(filter-out $(wildcard *Print.pdf), $(PDF))
+PRINT_PDF:=$(filter $(wildcard *Print.pdf), $(PDF))
+HANDOUT:=$(patsubst %-print.tex, %-print.pdf, $(TEX))
+HANDOUT:=$(addprefix pdf/, $(HANDOUT))
+
+.PHONY : all
+all : $(WEB_HTML) $(DOWNLOAD_PDF) $(HANDOUT) cleanup
+
+# render RmD to html
+
+%.html : %.Rmd 
+	R -e 'rmarkdown::render("$<", output_file = "$@")'
+
+# Convert html to pdf
+
+pdf/%.pdf : %.html 
+	R -e 'pagedown::chrome_print("$<", "$@")'
+
+# Create print version of slideshow
+
+pdf/%-print.pdf : %-print.tex 
+	pdflatex -output-directory pdf $< 
+
+# Remove temporary files used in building pdf 
+
+.PHONY : cleanup
+cleanup :
+	rm -f ./pdf/*-Print.pdf
+	rm -f ./*-Print.html
+	rm -f ./pdf/*.aux
+	rm -f ./pdf/*.log
+	
+clean :
+	rm -f ./*.html
+	rm -f ./pdf/*.pdf
+
