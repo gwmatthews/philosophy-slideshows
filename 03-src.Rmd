@@ -4,7 +4,7 @@ class: middle center
 
 .red[*debating right and wrong*]
 
-![:scale #ddd;](img/construction.png)
+![:scale 50%, #ddd;](img/construction.png)
 
 <!-- ![:credited Dorothea Lange "Crossroads Store", 50%, #ddd;](img/03/lange_crossroads_store.jpg) -->
 
