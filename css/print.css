@@ -13,11 +13,11 @@ background-color: #fff;
 }
 
 h4 {
-color: #ccc;
+color: #333;
 }
 
 .red {
-  color: #aaa;
+  color: #333;
   font-size: 110%;
   text-shadow: 2px 2px 5px #999;
 }
@@ -145,9 +145,8 @@ body {
 }
 
 .topcap {
-  color: #EE0066;
+  color: #333;
   font-size: x-large;
-  text-shadow: 2px 2px 5px #999;
   font-style: italic;
   margin-left: 2em;
 }
@@ -190,7 +189,7 @@ img.photo {
   margin-right: auto;
   text-align: center;
   border-radius: 5px;
-    box-shadow: 1px 2px 4px #999;
+  box-shadow: 1px 2px 4px #999;
 }
 
 /* FINAL SLIDE */
@@ -313,3 +312,6 @@ margin-right: 0;
   box-shadow: 1px 2px 4px #999;
 }
 
+a {
+  color: #222;
+}
