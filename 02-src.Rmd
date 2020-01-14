@@ -596,14 +596,21 @@ Thus a designer powerful enough to have designed biological organisms must exist
 
 --
 
+.wide-list[
+
 - Perhaps the Eighteenth Century philosopher Immanuel Kant was right that these kinds of big metaphysical questions cannot be answered in any definite way.
 
+]
+
 --
+
+.wide-list[
 
 - What then about appealing to faith as the basis of religious belief?
 
+]
+
 --
-<br>
 
 .caution[
 
@@ -832,7 +839,7 @@ It's more important to pull the arrow out.
 
 ***
 
-Likewise with religion, dealing with human suffering not the ultimate nature of things should be the focus.
+That's what religion too should be about, addressing our suffering.
 
 ]
 
@@ -840,7 +847,7 @@ Likewise with religion, dealing with human suffering not the ultimate nature of 
 
 .wide-list[
 
-- Is Buddhism even a religion or instead a philosophical, ethical or agnostic spiritual system? That is not clear and maybe does not matter so much... 
+- Is Buddhism even a religion or is it a philosophy, or agnostic spiritual and ethical system? 
 
 ]
 

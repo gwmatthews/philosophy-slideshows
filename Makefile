@@ -16,7 +16,7 @@ HANDOUT:=$(addprefix pdf/, $(HANDOUT))
 
 
 .PHONY : all
-all : $(SLIDES_HTML) $(SLIDES_PDF) $(PRINT_PDF) $(HANDOUT) cleanup
+all : $(SLIDES_HTML) $(SLIDES_PDF) $(HANDOUT) cleanup
 
 # render RmD to html
 
@@ -27,6 +27,7 @@ all : $(SLIDES_HTML) $(SLIDES_PDF) $(PRINT_PDF) $(HANDOUT) cleanup
 
 pdf/%.pdf : %.html 
 	R -e 'pagedown::chrome_print("$<", "$@")'
+	touch *.tex
 
 # Create print version of slideshow
 
@@ -46,4 +47,4 @@ clean :
 	rm -f ./*.html
 	rm -f ./pdf/*.pdf
 
-.INTERMEDIATE : $(PRINT_PDF)
+#.INTERMEDIATE : $(PRINT_PDF)
