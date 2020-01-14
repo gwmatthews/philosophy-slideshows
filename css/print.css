@@ -1,4 +1,4 @@
-/*   prevent small screen font size inflation */
+/*  PREVENT SMALL SCREEN FONT INFLATION */
 
 body {
   -webkit-text-size-adjust: none;
@@ -6,30 +6,29 @@ body {
   -ms-text-size-adjust: none;
 }
 
-
-body {
-  line-height: 1.5;
-}
-
-/* main theme colors */
+/* THEME COLORS */
 
 .remark-slide-content {
-  
 background-color: #fff;
-  
 }
 
+h4 {
+color: #ccc;
+}
 
 .red {
-  font-weight: bold;
+  color: #aaa;
+  font-size: 110%;
+  text-shadow: 2px 2px 5px #999;
 }
 
-/*  boxes */
-
+/* BOXES */
 
 .example {
   padding: 10px 30px;
   border-radius: 10px;
+  background-color: #ddd;
+  box-shadow: 1px 2px 4px #999;
   margin-bottom: 10px;
   line-height: 1.5;
   }
@@ -37,11 +36,23 @@ background-color: #fff;
 .argument {
   padding: 10px 30px;
   border-radius: 10px;
-  width: 85%; 
+  background-color: #ddd;
+  box-shadow: 1px 2px 4px #999;
+  width: 85%;
   margin-left: auto;
   margin-right: auto;
 }
 
+.right-argument {
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: #ddd;
+  box-shadow: 1px 2px 4px #999;
+  width: 65%;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  float: right;
+}
 
 .caution, .question, .notice {
   font-size: large;
@@ -51,12 +62,11 @@ background-color: #fff;
   margin-bottom: 20px;
   border-radius: 10px;
   border: 1px dashed #aaa;
-  background: #fff 10px center/3em no-repeat;
+  background: #ddd 10px center/3em no-repeat;
   width: 85%;
   margin-left:auto;
   margin-right: auto;
 }
-
 
 .caution {
   background-image: url("../img/caution.png");
@@ -75,8 +85,48 @@ background-color: #fff;
 }
 
 
+/*   LISTS     */
+
 ul ul, ol ul {
   list-style-type: none;
+}
+
+.right-list {
+  width: 75%;
+  float: right;
+  padding-top: 5px;
+  padding-bottom: 0;
+}
+ 
+.right-list ul {
+  
+  margin: 0.5em;
+}
+
+.wide-list {
+  clear: right;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 5px;
+  padding-bottom: 0;
+}
+
+.left-list {
+  width: 70%;
+  margin-right: auto;
+  padding-top: 5px;
+  padding-bottom: 0;
+}
+
+ul > li {
+  list-style-type: circle;
+}
+
+/*  TEXT MODIFICATIONS      */
+
+body {
+  line-height: 1.4;
 }
 
 .note {
@@ -84,47 +134,8 @@ ul ul, ol ul {
   line-height: 110%;
 }
 
-/* creative commons symbol for title page */
-
-img[alt="cc"] {
-  max-width: 25px;
-  vertical-align: middle;
-}
-
-/* images -- can be scaled with macro */
-
-img.photo {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  border-radius: 5px;
-}
-
-/* for final slide */
-
-.credits {
+.small-text {
   font-size: small;
-}
-
-.remark-slide-number {
-  font-size: small;
-}
-
-.right-list {
-  width: 75%;
-  float: right;
-  padding-top: 0;
-  padding-bottom: 0;
-}
- 
-.right-list ul {
-  
-margin: 0.5em;
-}
- 
-.smaller-text {
-  font-size: smaller;
   line-height: 1.5;
 }
 
@@ -134,10 +145,11 @@ margin: 0.5em;
 }
 
 .topcap {
-  color: #c8d;
+  color: #EE0066;
   font-size: x-large;
+  text-shadow: 2px 2px 5px #999;
   font-style: italic;
-  margin-left: 10%;
+  margin-left: 2em;
 }
 
 .bottomcap {
@@ -154,38 +166,102 @@ margin: 0.5em;
   
   width: 75%;
   margin: auto;
-  
-}
-
-ul > li {
-  list-style-type: circle;
 }
 
 blockquote {
   border-radius: 15px;
 }
 
+.remark-slide-number {
+  font-size: small;
+}
 
-/* Create three unequal columns that floats next to each other */
+
+/* IMAGES */
+
+img[alt="cc"] {
+  max-width: 25px;
+  vertical-align: middle;
+}
+
+img.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 5px;
+    box-shadow: 1px 2px 4px #999;
+}
+
+/* FINAL SLIDE */
+
+.credits {
+  font-size: small;
+}
+
+.credits h4 {
+  color: #222;
+  font-size: medium;
+ 
+}
+
+.image-credits {
+  font-size: x-small;
+  text-align: center;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* CENTER HEAVY THREE COLUMN LAYOUT */
+
 .leftbar {
+  color: #bbb;
   width: 20%;
   height: 92%;
   float: left;
 }
 
 .rightbar {
+  color: #bbb;
   width: 20%;
   height: 92%;
   float: right;
 }
 
 .middletext {
-  float: left;
   min-width: 54%;
   width: 54%;
   padding: 0;
   margin: 0;
+  float: left;
 }
+
+/* EVEN THREE COLUMN LAYOUT  */
+
+.three-columns {
+  width: 31%;
+}
+
+/* TOP RIGHT FIXED BOX */
+
+.top-right {
+position: fixed;
+right: 20px;
+top: 15px;
+/*border: 1px dotted black;*/
+width: 50%;
+}
+
+.top-right img {
+margin-right: 0;
+}
+
+/*.left-column {
+  border: 1px dotted black;
+}*/
+
+
+/* FOR DIALOGUES -- in conjunction with portrait images, see macros.js */
 
 .left-blurb {
   position: relative;
@@ -199,7 +275,7 @@ blockquote {
 }
 
 .left-blurb p  {
-  background-color: #fff;
+  background-color: #eee;
   display: block;
   margin-top: auto;
   margin-left: 1.5em;
@@ -209,8 +285,8 @@ blockquote {
   position: absolute;
   bottom: 30px;
   left: 0;
- }
-
+  box-shadow: 1px 2px 4px #999;
+}
 
 .right-blurb {
   position: relative;
@@ -224,7 +300,7 @@ blockquote {
 }
 
 .right-blurb p  {
-  background-color: #fff;
+  background-color: #eee;
   display: block;
   margin-top: auto;
   margin-right: 1.5em;
@@ -234,4 +310,6 @@ blockquote {
   position: absolute;
   bottom: 30px;
   right: 0;
+  box-shadow: 1px 2px 4px #999;
 }
+

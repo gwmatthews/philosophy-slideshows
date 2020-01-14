@@ -94,7 +94,7 @@ ul ul, ol ul {
 .right-list {
   width: 75%;
   float: right;
-  padding-top: 10px;
+  padding-top: 5px;
   padding-bottom: 0;
 }
  
@@ -108,14 +108,14 @@ ul ul, ol ul {
   width: 100%;
   margin-top: 0;
   margin-bottom: 0;
-  padding-top: 10px;
+  padding-top: 5px;
   padding-bottom: 0;
 }
 
 .left-list {
   width: 70%;
   margin-right: auto;
-  padding-top: 10px;
+  padding-top: 5px;
   padding-bottom: 0;
 }
 
@@ -126,7 +126,7 @@ ul > li {
 /*  TEXT MODIFICATIONS      */
 
 body {
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 .note {
@@ -175,6 +175,7 @@ blockquote {
 .remark-slide-number {
   font-size: small;
 }
+
 
 /* IMAGES */
 
