@@ -14,22 +14,36 @@ TEX:=$(wildcard *.tex)
 HANDOUT:=$(patsubst %-handout.tex, %-handout.pdf, $(TEX))
 HANDOUT:=$(addprefix pdf/, $(HANDOUT))
 
-
 .PHONY : all
-all : $(SLIDES_HTML) $(SLIDES_PDF) $(HANDOUT) cleanup
+all : html pdf handout cleanup
 
 # render RmD to html
 
-%.html : %.Rmd 
+html : $(SLIDES_HTML) $(PRINT_HTML)
+
+%slides.html : %slides.Rmd 
 	R -e 'rmarkdown::render("$<", output_file = "$@")'
+
+%print.html : %print.Rmd 
+	R -e 'rmarkdown::render("$<", output_file = "$@")'
+
 
 # Convert html to pdf
 
-pdf/%.pdf : %.html 
+pdf : $(SLIDES_PDF) $(PRINT_PDF)
+
+pdf/%slides.pdf : %slides.html 
 	R -e 'pagedown::chrome_print("$<", "$@")'
-	touch *.tex
+
+pdf/%print.pdf : %print.html 
+	R -e 'pagedown::chrome_print("$<", "$@")'
+	touch %.tex
+
+
 
 # Create print version of slideshow
+
+handout : $(HANDOUT)
 
 pdf/%-handout.pdf : %-handout.tex pdf/%-print.pdf
 	pdflatex -output-directory pdf $< 
@@ -47,4 +61,4 @@ clean :
 	rm -f ./*.html
 	rm -f ./pdf/*.pdf
 
-#.INTERMEDIATE : $(PRINT_PDF)
+.INTERMEDIATE : $(PRINT_PDF) $(PRINT_HTML)

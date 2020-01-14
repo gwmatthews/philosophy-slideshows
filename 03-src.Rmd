@@ -2,9 +2,11 @@ class: middle center
 
 # *Philosophical Ethics*
 
-.red[*debating right and wrong*]
+.red[*debating right and wrong*
 
-![:scale 50%, #ddd;](img/construction.png)
+*[under construction]* ]
+
+![:scale 50%, #ddd;](img/03/tracks-01.jpg)
 
 <!-- ![:credited Dorothea Lange "Crossroads Store", 50%, #ddd;](img/03/lange_crossroads_store.jpg) -->
 
@@ -171,9 +173,36 @@ layout: false
 - This approach is unique to philosophy since philosophy is not always just a neutral analysis of ideas, but also involves stating a position and defending it. This is the side f philosophy that is actively engaged with its subject matter and not just looking on from the sidelines.
 
 ---
+## Major Moral Theories
+1. **Relativism**: there are no universal moral principles.
 
-layout: false
+--
+
+2. **Virtue Ethics**: morality is about developing our capacities as human beings to the fullest.
+
+--
+
+3. **Utilitarianism**: what is right is what is the best thing for the most people affected.
+
+--
+
+4. **Egoism**: morality is mistaken, we should our ourselves first.
+
+--
+
+5. **Kant's Ethics of Duties**: immoral behavior makes no ultimate sense.
+
+--
+
+6. **The Ethics of Care**: morality is not about abstract rules, but about real relationships
+
+---
+layout: true
 ## *Cultural Relativism*
+
+---
+
+--
 
 .left-column[
 
@@ -222,26 +251,12 @@ layout: false
 
 
 ---
-layout: false
-## *Cultural Relativism*
-
-.left-column[
-
-<br><br>
-
-![:portrait Ruth Benedict, 1887-1948, 80%](img/03/benedict.jpg)
-
-]
-
---
 
 .topcap[The argument from cultural differences]
 
 --
 
-<br>
-
-.right-argument[
+.argument[
 
 Different cultures have different views about right and wrong.
 
@@ -253,25 +268,24 @@ Thus there are no universal moral principles.
 
 --
 
-.wide-list[
-
 - This may seem like an obvious argument, but does it follow that there are no principles simply because people may disagree about *what they are*? 
-
-]
-
 
 --
 
+- We also disagree about the facts, but it doesn't follow from this that there are no true facts.
 
 ---
-layout: false
-## *Divine Command Theory*
+layout: true
+## *Subjective Relativism*
+---
+
+--
 
 .left-column[
 
 <br><br>
 
-![:portrait God, , 80%](img/03/god.jpg)
+![:portrait John Steinbeck, 1902-1968, 80%](img/03/steinbeck.jpg)
 
 ]
 
@@ -283,7 +297,7 @@ layout: false
 
 .left-blurb[
 
-"Thou shalt not kill!"
+"There ain't no sin and there ain't no virtue. There's just stuff people do."
 
 ]
 ]
@@ -292,7 +306,7 @@ layout: false
 
 .right-list[
 
-- This theory is popular among those who see religion as providing an authoritative set of moral principles.
+- John Steinbeck's novels often present characters grappling with difficult circumstances which leads some to express bleak views like this.
 
 ]
 
@@ -300,13 +314,103 @@ layout: false
 
 .right-list[
 
-- It offers an account of the meaning of moral principles -- they are to be understood as commands issued by a supreme being.
+- Ultimately the story of "The Grapes of Wrath" shows characters banding together to overcome this idea that "sin" and "virtue" are nothing but subjective opinions.
 
 ]
 
+--
+
+.right-list[
+
+- But subjectivism is nevertheless a popular theory.
+
+]
 
 ---
 
+.topcap[Facts and values]
+
+--
+
+.argument[
+
+If something is factual it is not subject to debate.
+
+Moral claims are always up for debate.
+
+***
+
+This there are no facts about morality, only personal opinions.
+
+]
+
+--
+
+- This meta-ethical argument may seem compelling at first.
+
+--
+
+- But is it really the case that our deepest moral values are nothing but opinions that might be casually discarded?
+
+--
+
+- There are many reasons to think otherwise as we shall soon see.
+
+---
+layout: true
+## *Virtue Ethics*
+---
+
+--
+
+.left-column[
+
+<br><br>
+
+![:portrait Aristotle, 384-322 BCE, 80%](img/03/aristotle.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"True happiness comes from realizing our natural potential as human beings."
+
+]
+]
+
+--
+
+.right-list[
+
+- For Aristotle ethics and morality are not a matter of simply of knowing certain principles, but of the cultivation of character.
+
+]
+
+--
+
+.right-list[
+
+- A good person is one who follows a middle path between extremes -- exhibiting courage and generosity and not either cowardice or fearfulness; or excessive giving or stinginess.
+
+]
+
+--
+
+.right-list[
+
+- Only by realizing our built-in human capacities can we truly be happy, and this is the goal of an ethical life.
+
+]
+
+---
+
+---
 layout: false
 ### *Find out more*
 
@@ -323,7 +427,7 @@ class: center credits
 
 <br>
 
-![:credited Garry Winogrand "Flip", 50%, #ddd;](img/03/winogrand_flip.jpg)
+![:scale 50%, #ddd;](img/03/tracks-03.jpg)
 
 #### Credits
 
@@ -333,9 +437,9 @@ class: center credits
 
 ![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
 
-<!-- *Photos by:* -->
+*Photos by:*
 
-
+![:jump Jim Matthews](https://www.barebones-photography.com/)
 
 [download this presentation](./pdf/03-slides.pdf) or [print it](./pdf/03-handout.pdf)
 
