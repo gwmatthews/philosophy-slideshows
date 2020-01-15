@@ -22,3 +22,6 @@ remark.macros.credited = function (caption, percentage, color) {
   
 };
 
+remark.macros.vspace = function (size) {
+  return '<div style="height: ' + size + 'px;"><br></div>';
+};
