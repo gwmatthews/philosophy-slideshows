@@ -110,7 +110,7 @@ layout: false
 
 .question[
 
-- What moral principles do real people follow and how do we explain these principles?
+What moral principles do real people follow and how do we explain these principles?
 
 ]
 
@@ -134,7 +134,7 @@ layout: false
 
 .question[
 
-- Is  morality really just a matter of opinion, or is it subject to rational assessment and validation?
+Is  morality really just a matter of opinion, or is it subject to rational assessment and validation?
 
 ]
 
@@ -158,7 +158,7 @@ layout: false
 
 .question[
 
-- What moral principles are really justified and what is it that we should actually do in cases like this?
+What moral principles are really justified and what is it that we should actually do in cases like this?
 
 ]
 
