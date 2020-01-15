@@ -8,8 +8,6 @@ class: middle center
 
 ![:scale 50%, #ddd;](img/03/tracks-01.jpg)
 
-<!-- ![:credited Dorothea Lange "Crossroads Store", 50%, #ddd;](img/03/lange_crossroads_store.jpg) -->
-
 George Matthews, Pennsylvania College of Technology
 
 *2020*
@@ -166,11 +164,11 @@ layout: false
 
 --
 
-- The third branch of philosophical ethics is normative or prescripive ethics which jumps right into debates about right and wrong and takes a position principles and particular cases.
+- The third branch of philosophical ethics is normative or prescriptive ethics which jumps in and takes a position on the issues at hand.
 
 --
 
-- This approach is unique to philosophy since philosophy is not always just a neutral analysis of ideas, but also involves stating a position and defending it. This is the side f philosophy that is actively engaged with its subject matter and not just looking on from the sidelines.
+- This approach is unique to philosophy since philosophical debate often involves stating a position and defending it. Philosophers are out to find the truth and trust this method of debating to help find it.
 
 ---
 ## Major Moral Theories
@@ -182,11 +180,11 @@ layout: false
 
 --
 
-3. **Utilitarianism**: what is right is what is the best thing for the most people affected.
+3. **Egoism**: morality is mistaken, we should our ourselves first.
 
 --
 
-4. **Egoism**: morality is mistaken, we should our ourselves first.
+4. **Utilitarianism**: what is right is what is the best thing for the most people affected.
 
 --
 
@@ -229,7 +227,7 @@ layout: true
 
 .right-list[
 
-- Ruth Benedict was an American anthrpologist whose encounters with indigeous peoples convinced her that there was no universally valid set of moral principles.
+- Ruth Benedict was an American anthropologist whose encounters with indigenous peoples convinced her that there was no universally valid set of moral principles.
 
 ]
 
@@ -409,6 +407,123 @@ layout: true
 ]
 
 ---
+
+.topcap[the argument from human nature]
+
+.argument[
+
+By nature we have certain capacities built-in to us, such as the ability to reason and participate in public life.
+
+Its best to follow what nature dictates.
+
+***
+
+Thus we should all try to develop our capacities to the fullest.
+
+]
+
+--
+
+- Aristotle recommends that we strive to "be all we can be" since that is what humans are "meant to do."
+
+--
+
+- What if I choose *not to* strive for excellence? Is that wrong?
+
+--
+
+- And what is "human nature" anyway?
+
+---
+layout: true
+## *Egoism*
+---
+
+--
+
+.left-column[
+
+<br><br>
+
+![:portrait Max Stirner, 1806-1856, 80%](img/03/stirner.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"We owe each other nothing, for what I seem to owe you I owe at most to myself."
+
+]
+]
+
+--
+
+.right-list[
+
+- Max Stirner backed a view called "psychological egoism" which claims that "selfless good deeds" are impossible because we always have hidden selfish motives even when we seem to be doing things for others.
+
+]
+
+--
+
+.right-list[
+
+- .red[Psychological egoists] claim that we can find hidden motives in *anything* anyone does, no matter how selfless it seems, but does that prove that we really can't take others into account?
+
+]
+
+---
+
+.left-column[
+
+<br><br>
+
+![:portrait Adam Smith, 1806-1856, 80%](img/03/adam-smith.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"Each pursuing his or her private gain brings about the public good by means of the 'invisible hand' of the marketplace."
+
+]
+]
+
+--
+
+.right-list[
+
+- Adam Smith was a philosopher and economist who is often credited as the founder of capitalism.
+
+]
+
+--
+
+.right-list[
+
+- He claimed that free economic markets where everyone is out for their own gain lead to the best outcomes for everyone.
+
+]
+
+--
+
+.wide-list[
+
+- .red[Ethical egoists] extend this claim to assert that it is *always* best to look out for ourselves and that by similar mechanisms the good of all will take care of itself.
+
+]
 
 ---
 layout: false

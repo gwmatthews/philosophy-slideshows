@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 extras/
+pdf/*print.pdf
+*print.html
