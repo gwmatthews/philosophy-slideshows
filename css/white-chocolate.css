@@ -8,6 +8,7 @@
 --text-color-1: #000000;
 --text-color-2: #cccccc;
 --text-color-3: #ee0066;
+--slide-number: #cccccc;
 --link-color: #f92672;
 --shadow-color: #999999;
 --border-color-1: #aaaaaa;
@@ -275,6 +276,7 @@ blockquote {
 
 .remark-slide-number {
   font-size: small;
+  color: var(--slide-number);
 }
 
 /* FINAL SLIDE */
