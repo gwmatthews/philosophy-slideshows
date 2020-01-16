@@ -605,15 +605,85 @@ layout: true
 ## *Utilitarianism*
 ---
 
+--
+
+.left-column[
+
+<br><br><br>
+
+![:portrait J. S. Mill, 1806-1873, 80%](img/03/mill.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br><br>
+
+.left-blurb[
+
+"Actions are right in the proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness."
+
+]
+]
+
 ---
 layout: true
 ## *Kant's Ethics of Duty*
 ---
 
+--
+
+.left-column[
+
+<br><br><br>
+
+![:portrait Immanuel Kant, 1724-1804, 80%](img/03/kant.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br><br>
+
+.left-blurb[
+
+"Always treat others as ends in themselves, not merely as a means to an end."
+
+]
+]
+
 ---
 layout: true
 ## *Feminist Ethics*
 ---
+
+
+--
+
+.left-column[
+
+<br><br>
+
+![:portrait Carol Gilligan, 1806-1873, 80%](img/03/gilligan.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"Caring requires paying attention, seeing, listening, responding with respect."
+
+]
+]
 
 ---
 layout: false
