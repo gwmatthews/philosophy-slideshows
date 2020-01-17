@@ -2,9 +2,7 @@ class: middle center
 
 # *Philosophical Ethics*
 
-.red[*debating right and wrong*
-
-*[under construction]* ]
+.red[*debating right and wrong*]
 
 ![:scale 50%, #ddd;](img/03/tracks-01.jpg)
 
@@ -628,6 +626,66 @@ layout: true
 ]
 ]
 
+--
+
+.right-list[
+
+- John Stuart Mill approaches ethical and moral questions from a practical perspective: what matters is how much good we do.
+
+]
+
+--
+
+.right-list[
+
+- As a pioneering economist he was also convinced that the "costs" and "benefits" of our actions and decisions could be measured, compared and anticipated.
+
+]
+
+---
+
+.topcap[an argument for utilitarianism]
+
+.argument[
+
+We are all after the same thing -- happiness.
+
+Nobody's happiness counts for more than anybody else's.
+
+***
+
+Thus we should all act so as to increase the overall amount of happiness, to promote the best outcome for the most people.
+
+]
+
+--
+
+- Why should each of us accept that all of us count equally?
+
+--
+
+- One response: there is no reason to think otherwise, why should my interests matter more than yours if we are both after the same goal of being happy?
+
+---
+
+.topcap[difficulties with utilitarianism]
+
+--
+
+- Can we really measure happiness and compare each other's happiness on a neutral scale as utilitarianism requires?
+
+--
+
+- How long into the future do consequences still matter?
+
+--
+
+- Can we even really predict the consequences of our actions?
+
+--
+
+- Do good outcomes *really* determine the rightness of what we do? Anything would seem to be permissible if it led to the "greater good" of more happiness for more people.
+
 ---
 layout: true
 ## *Kant's Ethics of Duty*
@@ -656,19 +714,78 @@ layout: true
 ]
 ]
 
----
-layout: true
-## *Feminist Ethics*
+--
+
+.right-list[
+
+- Immanuel Kant's ethics of duty asks: on what basis do we have obligations to each other?
+
+]
+
+--
+
+.right-list[
+
+- His answer is that obligations rest on reason alone in that anyone who thinks things through carefully will realize that all of us deserve basic respect and should never be treated as objects to be exploited or used.
+
+]
+
 ---
 
+.topcap[the rational basis of respect]
+
+.argument[
+
+Lying, cheating, stealing, etc. are all based on a double standard.
+
+When I do these I expect that you won't do them back.
+
+***
+
+Rationality requires consistency, so these kinds of things are irrational to do.
+
+]
+
+--
+
+- Stealing is wrong since when I steal I expect others to respect my property, but opt out of respecting theirs.
+
+--
+
+- Lying is wrong since when I lie I expect others to believe me while opting out of telling them the truth.
+
+---
+
+.topcap[rights and duties]
+
+--
+
+- Kant's argument here is that all immoral behavior rests on an inner disharmony.
+
+--
+
+- In all cases, I assume and demand respect from others (that they should tell me the truth, respect my property, not harm me), while disrespecting others by using them as a means to me ends.
+
+--
+
+- The only way to live a self-consistent life is to treat others as I expect and demand others to treat me.
+
+--
+
+- From this perspective the concepts of human rights, and our duties to each other are not based on authority, convenience or usefulness, but on simple consistency.
+
+---
+layout: true
+## *The Ethics of Care*
+---
 
 --
 
 .left-column[
 
-<br><br>
+<br><br><br>
 
-![:portrait Carol Gilligan, 1806-1873, 80%](img/03/gilligan.jpg)
+![:portrait Carol Gilligan, 1936-, 80%](img/03/gilligan.jpg)
 
 ]
 
@@ -676,7 +793,7 @@ layout: true
 
 .middletext[
 
-<br>
+<br><br>
 
 .left-blurb[
 
@@ -685,17 +802,66 @@ layout: true
 ]
 ]
 
+--
+
+<br>
+
+.right-list[
+
+- Carol Gilligan noted that theories of moral development labelled women's responses to moral dilemmas inadequate since they focused on relationships and not universal principles.
+]
+
+--
+
+.right-list[
+
+- She proposed that women typically speak in a "different voice" on moral issues than men typically use.
+
+]
+
+--
+
+.wide-list[
+
+"Male" moral voices emphasize universal principles, while "female" moral voices emphasize concern for particular relationships.
+
+]
+
+---
+
+.topcap[taking gender seriously]
+
+--
+
+.argument[
+
+Men and women typically address moral issues in different terms.
+
+Both perspectives are equally valid.
+
+***
+
+So we should allow both voices to participate in discussions of morality.
+
+]
+
+--
+
+- Are these different gendered perspectives "built-in" to men and women or they based on roles learned in a particular society?
+
+--
+
+- How can we balance universal concerns for human rights and equality with the demands of particular relationships based on care for individuals?
+
 ---
 layout: false
 ### *Find out more*
 
+![:jump Introduction to Philosophy: Ethics](https://press.rebus.community/intro-to-phil-ethics/): a free textbook edited by George Matthews with essays on major approaches to philosophical ethics.
 
+![:jump Justice](http://justiceharvard.org/): Michael Sandel of Harvard University teaches one of the most popular courses at Harvard and makes videos of his lectures available at his website.
 
-
-
-
-
-
+![:jump The Crash Course](https://www.youtube.com/playlist?list=PLa_ZSYFNmJvvtaPCcfY-xQljsJDyhMtWe): Hank Green's series contains several videos exploring various approaches to ethics.
 
 ---
 class: center credits
