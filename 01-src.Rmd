@@ -4,7 +4,7 @@ class: middle center
 
 .red[*the examined life*]
 
-![:credited Jacques-Louis David "The Death of Socrates", 50%, #ddd;](img/01/david-socrates.jpg)
+![:scale 50%, #ddd;](img/01/david-socrates.jpg)
 
 George Matthews, Pennsylvania College of Technology
 

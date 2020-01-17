@@ -1,6 +1,6 @@
 remark.macros.scale = function (percentage, frameColor) {
   var url = this;
-  return '<img src="' + url + '" style="width: ' + percentage + ';border: 7px solid ' + frameColor + ';" alt="photo" class="photo"/>';
+  return '<img class="photo" src="' + url + '" style="width: ' + percentage + ';border: 7px solid ' + frameColor + ';" alt="photo" />';
 };
 
 
@@ -18,7 +18,7 @@ remark.macros.portrait = function (person, dates, percentage) {
 
 remark.macros.credited = function (caption, percentage, color) {
   var url = this;
-  return '<div class="center"> <img class="photo" src="' +  url  + '" style="width:' + percentage  + '; border: 4px solid ' + color + ' margin-bottom: 5px;" ><span class="image-credits">' + caption + '</span></div>' ;
+  return '<div class="center"> <img class="photo" src="' +  url + '" style="width:' + percentage  + '; border: 4px solid ' + color + ' margin-bottom: 5px;" ><span class="image-credits">' + caption + '</span></div>' ;
   
 };
 
