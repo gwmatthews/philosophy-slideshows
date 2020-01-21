@@ -15,6 +15,10 @@
 
 }
 
+.remark-slide-scaler{
+  overflow: hidden;
+}
+
 /*  PREVENT SMALL SCREEN FONT INFLATION */
 
 body {
@@ -315,7 +319,7 @@ img.credits h4 {
 .middletext {
   min-width: 54%;
   width: 54%;
-  padding-top: 5px;
+  padding: 0;
   margin: 0;
   float: left;
 }
