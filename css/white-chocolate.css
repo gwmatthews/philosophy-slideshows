@@ -119,7 +119,7 @@ color: var(--text-color-2);
   background-size:45px;
   padding: 1em;
   width: 100%;
-}
+ }
 
 .left-blurb p  {
   background-color: var(--box-color-2);
@@ -130,8 +130,8 @@ color: var(--text-color-2);
   border-radius: 20px;
   border: 1px dashed var(--border-color-1);
   position: absolute;
-  bottom: 30px;
-  left: 0;
+  bottom: 15px;
+  left: 15px;
   box-shadow: 1px 2px 4px var(--shadow-color);
 }
 
@@ -155,8 +155,8 @@ color: var(--text-color-2);
   border-radius: 20px;
   border: 1px dashed var(--border-color-1);
   position: absolute;
-  bottom: 30px;
-  right: 0;
+  bottom: 15px;
+  right: 15px;
   box-shadow: 1px 2px 4px var(--shadow-color);
 }
 
@@ -168,6 +168,7 @@ img[alt="cc"] {
 }
 
 .photo {
+  display: block;
   margin-left: auto;
   margin-right: auto;
   border-radius: 5px;
@@ -314,7 +315,7 @@ img.credits h4 {
 .middletext {
   min-width: 54%;
   width: 54%;
-  padding: 0;
+  padding-top: 5px;
   margin: 0;
   float: left;
 }

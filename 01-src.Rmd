@@ -4,7 +4,7 @@ class: middle center
 
 .red[*the examined life*]
 
-![:scale 50%, #ddd;](img/01/david-socrates.jpg)
+![:credited Jacques-Louis David  "The Death of Socrates", 50%, #ddd;](img/01/david-socrates.jpg)
 
 George Matthews, Pennsylvania College of Technology
 
@@ -22,12 +22,13 @@ George Matthews, Pennsylvania College of Technology
 ![:portrait Socrates, 470-399 BCE, 80%](img/01/socrates.jpg)
 
 ]
-
 --
+
+<br>
 
 .middletext[
 
-<br>
+
 
 .left-blurb[
 
