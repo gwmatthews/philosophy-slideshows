@@ -58,7 +58,7 @@ George Matthews, Pennsylvania College of Technology
 
 --
 
-<br><br><br>
+![:vspace 160]()
 
 .right-list[
 
@@ -107,7 +107,7 @@ George Matthews, Pennsylvania College of Technology
 
 ] 
 
-<br><br><br><br>
+![:vspace 160]()
 
 --
 
@@ -151,7 +151,7 @@ George Matthews, Pennsylvania College of Technology
 
 ]
 
-<br><br><br><br>
+![:vspace 160]()
 
 .right-list[
 
@@ -833,7 +833,7 @@ Thus we should accept that God exists.
 
 .right-argument[
 
-Argiung about God, the universe and the soul is like arguing about who exactly just shot you with an arrow and why.
+Arguing about God, the universe and the soul is like arguing about who exactly just shot you with an arrow and why.
 
 It's more important to pull the arrow out.
 
