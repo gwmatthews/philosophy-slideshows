@@ -4,14 +4,339 @@ class: middle center
 
 .red[*minds in a material world*]
 
-![:scale 50%, #ddd;](img/construction.png)
+![:scale 50%, #ddd;](img/04/mind-2-johnhain.png)
 
 George Matthews, Pennsylvania College of Technology
 
 *2020*
 
 ---
-## *Minds and Bodies*
+## *The Mind/Body Problem*
+
+.question[
+
+  What is the place of the mind and mental phenomena in the physical universe?
+
+]
+
+![:vspace 10px]()
+
+- The mind/body problem is a metaphysical issue since it concerns the basic sorts of things that exist.
+
+- In this slideshow we will examine some of the major ways of addressing this problem that have been addressed since the scientific revolution challenged the ancient belief in the existence of the soul.
+
+- We'll do this by looking at major theoretical approaches and what might be said both in favor of and against them.
+
+---
+## *The Mind/Body Problem*
+
+.question[
+
+  What is the place of the mind and mental phenomena in the physical universe?
+
+]
+
+![:vspace 10px]()
+
+- .red[Dualism]: minds and bodies are two entriely separate things, so minds are NOT a part of the physical universe at all.
+
+- .red[Behaviorism]: minds are nothing but certain patterns of behavior which we refer to as intelligent.
+
+- .red[Mind/Brain Identity Theory]: minds are collections of states of the physical brain.
+
+- .red[Functionalism]: minds are the software or sets of functions, carried out by the components of physical brains.
+
+---
+## *The Case for Dualism*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Descartes, 1596-1650, 80%](img/04/descartes.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"Minds and bodies are so different that they must be different kinds of things entirely."
+
+]
+]
+
+
+
+---
+## *Objections to Dualism*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Elizabeth of Bohemia, 1618-1680, 80%](img/04/elizabeth.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"If minds and bodies are so different how can they interact?"
+
+]
+]
+
+---
+## *Objections to Dualism*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Gilbert Ryle, 1900-1976, 80%](img/04/ryle.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"Talking about minds as separate things gets it all wrong."
+
+]
+]
+
+---
+## *The Case for Behaviorism*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait J.B. Watson, 1878-1958, 80%](img/04/watson.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"Psychology is a branch of objective, natural science."
+
+]
+]
+
+---
+## *Objections to Behaviorism*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Hilary Putnam, 1926-2016, 80%](img/04/putnam.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"Behavior and state of mind are not necessarily the same."
+
+]
+]
+
+---
+## *The Case for Mind/Brain Identity Theory*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait J.J.C. Smart, 1920-2012, 80%](img/04/smart.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"All reality is physical, so minds must be states of physical brains."
+
+]
+]
+
+---
+## *Objections to Mind/Brain Identity Theory*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Jerry Fodor, 1935-2017, 80%](img/04/fodor.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"Many states of the brain might realize one and the same mental state."
+
+]
+]
+
+---
+## *Objections to Mind/Brain Identity Theory*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Frank Jackson, 1943- , 80%](img/04/jackson.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"We cannot know from outside what experience is like from inside."
+
+]
+]
+
+
+---
+## *The Case for Functionalism*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Jerry Fodor, 1935-2017, 80%](img/04/fodor.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"Mind is to software as brain is to hardware."
+
+]
+]
+
+
+---
+## *Objections to Functionalism*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Ned Block, 1943 - , 80%](img/04/block.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"It makes no sense to say minds are functions run by the machinery of the brain."
+
+]
+]
+
+---
+## *Objections to Functionalism*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait David Chalmers, 1966 - , 80%](img/04/chalmers.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"Conscious experience cannot be explained in objective terms."
+
+]
+]
+
+---
+## *The Case for Artificial Intelligence*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Alan Turing, 1912-1954, 80%](img/04/turing.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"Thinking is computation, and computers can carry out any computation."
+
+]
+]
+
+---
+## *Against Artificial Intelligence*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait John Searle, 1932- , 80%](img/04/searle.jpg)
+
+]
+
+.middletext[
+
+![:vspace 120]()
+
+.left-blurb[
+
+"Manipulating symbols according to rules is not the same as thinking."
+
+]
+]
+
+
 
 ---
 
@@ -29,7 +354,8 @@ layout: false
 ---
 class: center credits
 
-![:scale 50%, #ddd;](img/01/g-1.jpg)
+![:scale 50%, #ddd;](img/04/mind-johnhain.png)
+
 
 #### Credits
 
