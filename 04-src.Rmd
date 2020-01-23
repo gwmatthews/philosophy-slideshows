@@ -397,11 +397,28 @@ George Matthews, Pennsylvania College of Technology
 
 .left-blurb[
 
-"It makes no sense to say minds are functions run by the machinery of the brain."
+"It makes no sense to say minds result from the brains infrmation processing activity."
 
 ]
 ]
 
+.right-list[
+
+- Ned Block offers a colorful example to show why functionalism might not get things right about the mind.
+
+]
+
+.right-list[
+
+- If we imagined all one billion citizens of China playing the roles of individual neurons in the human brain and passing signals back and forth just as neurons do we'd never say that somehow the citizens of China *really are* something with a mind.
+
+]
+
+.wide-list[
+
+- Thus, minds must be something more than sets of functions carried out by brains.
+
+]
 ---
 ## *Objections to Functionalism*
 
@@ -424,6 +441,23 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+.right-list[
+
+- David Chalmers also asks us to imagine a fictional scenario in his attack on functionalism.
+
+]
+
+.right-list[
+
+- We can imagine a "philosophical zombie" processing all of the information we process while being empty of any conscious experience.
+
+]
+
+.right-list[
+
+- Such a mythical creature shows that minds are more than information processing.
+
+]
 ---
 ## *The Case for Artificial Intelligence*
 
@@ -444,6 +478,24 @@ George Matthews, Pennsylvania College of Technology
 "Thinking is computation, and computers can carry out any computation."
 
 ]
+]
+
+.right-list[
+
+- One consequence of functionalism is that Artificial Intelligence *should be possible.*
+
+]
+
+.right-list[
+
+- Computer pioneer Alan Turing saw this in the 1930's when he proved that it was possible to build a "universal machine" which could carry out any possible set of instructions thus giving rise to the age of computers.
+
+]
+
+.wide-list[
+
+- Contemporary research into Artificial Intelligence is seeking ways to capture the complexity of human thinking in equally complex computer programs.
+
 ]
 
 ---
