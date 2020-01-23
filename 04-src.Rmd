@@ -38,7 +38,7 @@ George Matthews, Pennsylvania College of Technology
 
 ![:vspace 10px]()
 
-- .red[Dualism]: minds and bodies are two entriely separate things, so minds are NOT a part of the physical universe at all.
+- .red[Dualism]: minds and bodies are two entirely separate things, so minds are NOT a part of the physical universe at all.
 
 - .red[Behaviorism]: minds are nothing but certain patterns of behavior which we refer to as intelligent.
 
@@ -70,12 +70,21 @@ George Matthews, Pennsylvania College of Technology
 
 .right-list[
 
-- Descartes offers what he considers a scientific defense of the traditional conception of the soul as an immaterial entity against the challenges of modern philosophers who claimed that nothing besides matter in motion exists.
+- Descartes offers a defense of the traditional conception of the soul as an immaterial entity.
 
 ]
 
+.right-list[
 
+- Mental and physical things seem to share no features in common, so he argues that they must belong to entirely different "worlds."
 
+]
+
+.wide-list[
+
+- Physical things are publicly observable, take up space and interact according to the laws of physics, while none of this is true of "mental things" like thoughts, dreams or feelings.
+
+]
 
 ---
 ## *Objections to Dualism*
@@ -97,6 +106,18 @@ George Matthews, Pennsylvania College of Technology
 "If minds and bodies are so different how can they interact?"
 
 ]
+]
+
+.right-list[
+
+- Princess Elizabeth of Bohemia exchanged many letters with Descartes in which she stressed what has come to be known as "the interaction problem."
+
+]
+
+.right-list[
+
+- Clearly my mind interacts with my body, yet dualism seems to rule this out as even a possibility.
+
 ]
 
 ---
@@ -121,6 +142,18 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+.right-list[
+
+- Gilbert Ryle offers a diagnosis of where Descartes went wrong. He thought of the mind as a kind of "thing" and not as a "higher-order" description of what certain kinds of creatures *with* minds do.
+
+]
+
+.right-list[
+
+- Just like we'd be wrong to seek something called "the desert" alongside of all of the cactus, lizards and sand in Nevada, we are mistaken to look for a thing called a "mind" alongside our bodily parts.
+
+]
+
 ---
 ## *The Case for Behaviorism*
 
@@ -138,9 +171,27 @@ George Matthews, Pennsylvania College of Technology
 
 .left-blurb[
 
-"Psychology is a branch of objective, natural science."
+"Psychology is a branch of objective, natural science, which aims at prediction and control."
 
 ]
+]
+
+.right-list[
+
+- Watson and other early psychologists sought to define what a scientific psychology would look like.
+
+]
+
+.right-list[
+
+- Behaviorists claimed that more important than "looking inside" and observing our minds was studying how creatures *with* minds behaved, and ultimately being able to predict and control their behavior.
+
+]
+
+.wide-list[
+
+- This led to the philosophical view that minds just *were* certain kinds of behavior, and that any talk about minds from the "first person" was not to be trusted.
+
 ]
 
 ---
@@ -165,6 +216,24 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+.right-list[
+
+- If you can *act* like you are happy but not really be happy, or *pretend* not to feel pain when you have just cut yourself, your state of mind cannot be the same as your behavior.
+
+]
+
+.right-list[
+
+- But since my state of mind is unknown to anyone else but me, how *can* we study the mind scientifically?
+
+]
+
+.wide-list[
+
+- Can we predict and control human behavior like we can predict and control things in the physical world? The American philosopher Hilary Putnam had his doubts.
+
+]
+
 ---
 ## *The Case for Mind/Brain Identity Theory*
 
@@ -185,6 +254,24 @@ George Matthews, Pennsylvania College of Technology
 "All reality is physical, so minds must be states of physical brains."
 
 ]
+]
+
+.right-list[
+
+- The connection between minds and brains has been known since ancient times. Maybe learning all about the brain is all we need to do to understand the mind.
+
+]
+
+.right-list[
+
+- J.J.C. Smart and other "physicalists" have argued that minds must *be identical with* brains since physical reality is all that there is.
+
+]
+
+.wide-list[
+
+- Recent advances in brain imaging technology would seem to finally give us a way of peering into other people's minds in real time.
+
 ]
 
 ---
@@ -209,6 +296,24 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+.right-list[
+
+- While brains are clearly relevant for minds, American philosopher Jerry Fodor was not sure it made sense to equate the two.
+
+]
+
+.right-list[
+
+- After all our brains are all very different in their details and yet we can all think similar thoughts. 
+
+]
+
+.wide-list[
+
+- Thus while brain imaging technology can show exactly what my brain is doing, that doesn't mean it can be used to read my mind.
+
+]
+
 ---
 ## *Objections to Mind/Brain Identity Theory*
 
@@ -231,7 +336,17 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+.right-list[
 
+- Australian philosopher Frank Jackson goes further by arguing that any account of the physical brain from "outside" must miss something essential to having a mind, "what it is like" to experience what we experience.
+
+]
+
+.wide-list[
+
+- So, for example, a visually impaired scientist with no color vision might know all of the facts about human color vision, but there would be something else she would learn about it should her color vision be restored.
+
+]
 ---
 ## *The Case for Functionalism*
 
@@ -254,7 +369,17 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+.right-list[
 
+- If minds are like the "software" running in the "hardware" of our brains, then minds would depend on brains, and need brains to exist, while still not being the *same thing* as brains.
+
+]
+
+.right-list[
+
+- This view of the nature of the mind as a set of "information processing functions" carried out by the physical machinery of the brain and nervous system is widely shared by cognitive scientists.
+
+]
 ---
 ## *Objections to Functionalism*
 
