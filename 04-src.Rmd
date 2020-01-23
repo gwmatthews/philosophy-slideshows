@@ -23,7 +23,7 @@ George Matthews, Pennsylvania College of Technology
 
 - The mind/body problem is a metaphysical issue since it concerns the basic sorts of things that exist.
 
-- In this slideshow we will examine some of the major ways of addressing this problem that have been addressed since the scientific revolution challenged the ancient belief in the existence of the soul.
+- In this slideshow we examine the major ways of addressing this problem that have been arisen since the scientific revolution first challenged the ancient belief in the existence of the soul.
 
 - We'll do this by looking at major theoretical approaches and what might be said both in favor of and against them.
 
@@ -67,6 +67,13 @@ George Matthews, Pennsylvania College of Technology
 
 ]
 ]
+
+.right-list[
+
+- Descartes offers what he considers a scientific defense of the traditional conception of the soul as an immaterial entity against the challenges of modern philosophers who claimed that nothing besides matter in motion exists.
+
+]
+
 
 
 

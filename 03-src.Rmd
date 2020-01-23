@@ -187,27 +187,27 @@ What moral principles are really justified and what is it that we should actuall
 
 ---
 ## Major Moral Theories
-1. **Relativism**: there are no universal moral principles.
+- **Relativism**: there are no universal moral principles.
 
 --
 
-2. **Virtue Ethics**: morality is about developing our capacities as human beings to the fullest.
+- **Virtue Ethics**: morality is about developing our capacities as human beings to the fullest.
 
 --
 
-3. **Egoism**: morality is mistaken, we should our ourselves first.
+- **Egoism**: morality is mistaken, we should our ourselves first.
 
 --
 
-4. **Utilitarianism**: what is right is what is the best thing for the most people affected.
+- **Utilitarianism**: what is right is what is the best thing for the most people affected.
 
 --
 
-5. **Kant's Ethics of Duties**: immoral behavior makes no ultimate sense.
+- **Kant's Ethics of Duties**: immoral behavior makes no ultimate sense.
 
 --
 
-6. **The Ethics of Care**: morality is not about abstract rules, but about real relationships
+- **The Ethics of Care**: morality is not about abstract rules, but about real relationships
 
 ---
 layout: true

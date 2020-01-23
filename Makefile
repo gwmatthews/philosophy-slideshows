@@ -63,5 +63,5 @@ clean :
 	rm -f ./*.html
 	rm -f ./pdf/*.pdf
 
-.INTERMEDIATE : $(PRINT_PDF) $(PRINT_HTML)
+.INTERMEDIATE : $(PRINT_HTML)
 
