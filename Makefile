@@ -57,6 +57,7 @@ pdf/%-handout.pdf : %-handout.tex pdf/%-print.pdf
 cleanup :
 	rm -f ./pdf/*.aux
 	rm -f ./pdf/*.log
+	rm -f ./pdf/*-print.pdf
 	@echo Everything is up to date.	
 
 clean :

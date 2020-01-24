@@ -15,6 +15,10 @@
 
 }
 
+.remark-slide-scaler{
+  overflow: hidden;
+}
+
 /*  PREVENT SMALL SCREEN FONT INFLATION */
 
 body {
@@ -119,7 +123,7 @@ color: var(--text-color-2);
   background-size:45px;
   padding: 1em;
   width: 100%;
-}
+ }
 
 .left-blurb p  {
   background-color: var(--box-color-2);
@@ -168,6 +172,7 @@ img[alt="cc"] {
 }
 
 .photo {
+  display: block;
   margin-left: auto;
   margin-right: auto;
   border-radius: 5px;
@@ -284,7 +289,7 @@ blockquote {
   font-size: small;
 }
 
-.credits h4 {
+img.credits h4 {
   color: var(--text-color-3);
   font-size: x-large;
   font-style: italic;

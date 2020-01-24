@@ -13,17 +13,25 @@ George Matthews, Pennsylvania College of Technology
 ---
 ## *The Mind/Body Problem*
 
+--
+
 .question[
 
   What is the place of the mind and mental phenomena in the physical universe?
 
 ]
 
+--
+
 ![:vspace 10px]()
 
 - The mind/body problem is a metaphysical issue since it concerns the basic sorts of things that exist.
 
+--
+
 - In this slideshow we examine the major ways of addressing this problem that have been arisen since the scientific revolution first challenged the ancient belief in the existence of the soul.
+
+--
 
 - We'll do this by looking at major theoretical approaches and what might be said both in favor of and against them.
 
@@ -36,18 +44,28 @@ George Matthews, Pennsylvania College of Technology
 
 ]
 
+--
+
 ![:vspace 10px]()
 
 - .red[Dualism]: minds and bodies are two entirely separate things, so minds are NOT a part of the physical universe at all.
 
+--
+
 - .red[Behaviorism]: minds are nothing but certain patterns of behavior which we refer to as intelligent.
 
+--
+
 - .red[Mind/Brain Identity Theory]: minds are collections of states of the physical brain.
+
+--
 
 - .red[Functionalism]: minds are the software or sets of functions, carried out by the components of physical brains.
 
 ---
 ## *The Case for Dualism*
+
+--
 
 .left-column[
 
@@ -68,17 +86,23 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+--
+
 .right-list[
 
 - Descartes offers a defense of the traditional conception of the soul as an immaterial entity.
 
 ]
 
+--
+
 .right-list[
 
 - Mental and physical things seem to share no features in common, so he argues that they must belong to entirely different "worlds."
 
 ]
+
+--
 
 .wide-list[
 
@@ -88,6 +112,8 @@ George Matthews, Pennsylvania College of Technology
 
 ---
 ## *Objections to Dualism*
+
+--
 
 .left-column[
 
@@ -108,11 +134,15 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+--
+
 .right-list[
 
 - Princess Elizabeth of Bohemia exchanged many letters with Descartes in which she stressed what has come to be known as "the interaction problem."
 
 ]
+
+--
 
 .right-list[
 
@@ -142,11 +172,15 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+--
+
 .right-list[
 
 - Gilbert Ryle offers a diagnosis of where Descartes went wrong. He thought of the mind as a kind of "thing" and not as a "higher-order" description of what certain kinds of creatures *with* minds do.
 
 ]
+
+--
 
 .right-list[
 
@@ -156,6 +190,8 @@ George Matthews, Pennsylvania College of Technology
 
 ---
 ## *The Case for Behaviorism*
+
+--
 
 .left-column[
 
@@ -176,17 +212,23 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+--
+
 .right-list[
 
 - Watson and other early psychologists sought to define what a scientific psychology would look like.
 
 ]
 
+--
+
 .right-list[
 
 - Behaviorists claimed that more important than "looking inside" and observing our minds was studying how creatures *with* minds behaved, and ultimately being able to predict and control their behavior.
 
 ]
+
+--
 
 .wide-list[
 
@@ -196,6 +238,8 @@ George Matthews, Pennsylvania College of Technology
 
 ---
 ## *Objections to Behaviorism*
+
+--
 
 .left-column[
 
@@ -216,17 +260,23 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+--
+
 .right-list[
 
 - If you can *act* like you are happy but not really be happy, or *pretend* not to feel pain when you have just cut yourself, your state of mind cannot be the same as your behavior.
 
 ]
 
+--
+
 .right-list[
 
 - But since my state of mind is unknown to anyone else but me, how *can* we study the mind scientifically?
 
 ]
+
+--
 
 .wide-list[
 
@@ -236,6 +286,8 @@ George Matthews, Pennsylvania College of Technology
 
 ---
 ## *The Case for Mind/Brain Identity Theory*
+
+--
 
 .left-column[
 
@@ -256,17 +308,23 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+--
+
 .right-list[
 
 - The connection between minds and brains has been known since ancient times. Maybe learning all about the brain is all we need to do to understand the mind.
 
 ]
 
+--
+
 .right-list[
 
 - J.J.C. Smart and other "physicalists" have argued that minds must *be identical with* brains since physical reality is all that there is.
 
 ]
+
+--
 
 .wide-list[
 
@@ -276,6 +334,8 @@ George Matthews, Pennsylvania College of Technology
 
 ---
 ## *Objections to Mind/Brain Identity Theory*
+
+--
 
 .left-column[
 
@@ -296,17 +356,23 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+--
+
 .right-list[
 
 - While brains are clearly relevant for minds, American philosopher Jerry Fodor was not sure it made sense to equate the two.
 
 ]
 
+--
+
 .right-list[
 
 - After all our brains are all very different in their details and yet we can all think similar thoughts. 
 
 ]
+
+--
 
 .wide-list[
 
@@ -336,19 +402,26 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+--
+
 .right-list[
 
 - Australian philosopher Frank Jackson goes further by arguing that any account of the physical brain from "outside" must miss something essential to having a mind, "what it is like" to experience what we experience.
 
 ]
 
+--
+
 .wide-list[
 
 - So, for example, a visually impaired scientist with no color vision might know all of the facts about human color vision, but there would be something else she would learn about it should her color vision be restored.
 
 ]
+
 ---
 ## *The Case for Functionalism*
+
+--
 
 .left-column[
 
@@ -369,19 +442,26 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+--
+
 .right-list[
 
 - If minds are like the "software" running in the "hardware" of our brains, then minds would depend on brains, and need brains to exist, while still not being the *same thing* as brains.
 
 ]
 
+--
+
 .right-list[
 
 - This view of the nature of the mind as a set of "information processing functions" carried out by the physical machinery of the brain and nervous system is widely shared by cognitive scientists.
 
 ]
+
 ---
 ## *Objections to Functionalism*
+
+--
 
 .left-column[
 
@@ -397,10 +477,12 @@ George Matthews, Pennsylvania College of Technology
 
 .left-blurb[
 
-"It makes no sense to say minds result from the brains infrmation processing activity."
+"It makes no sense to say minds result from the brains information processing activity."
 
 ]
 ]
+
+--
 
 .right-list[
 
@@ -408,17 +490,22 @@ George Matthews, Pennsylvania College of Technology
 
 ]
 
+--
+
 .right-list[
 
 - If we imagined all one billion citizens of China playing the roles of individual neurons in the human brain and passing signals back and forth just as neurons do we'd never say that somehow the citizens of China *really are* something with a mind.
 
 ]
 
+--
+
 .wide-list[
 
 - Thus, minds must be something more than sets of functions carried out by brains.
 
 ]
+
 ---
 ## *Objections to Functionalism*
 
@@ -441,11 +528,15 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+--
+
 .right-list[
 
 - David Chalmers also asks us to imagine a fictional scenario in his attack on functionalism.
 
 ]
+
+--
 
 .right-list[
 
@@ -453,13 +544,18 @@ George Matthews, Pennsylvania College of Technology
 
 ]
 
+--
+
 .right-list[
 
 - Such a mythical creature shows that minds are more than information processing.
 
 ]
+
 ---
 ## *The Case for Artificial Intelligence*
+
+--
 
 .left-column[
 
@@ -480,17 +576,23 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+--
+
 .right-list[
 
 - One consequence of functionalism is that Artificial Intelligence *should be possible.*
 
 ]
 
+--
+
 .right-list[
 
 - Computer pioneer Alan Turing saw this in the 1930's when he proved that it was possible to build a "universal machine" which could carry out any possible set of instructions thus giving rise to the age of computers.
 
 ]
+
+--
 
 .wide-list[
 
@@ -500,6 +602,8 @@ George Matthews, Pennsylvania College of Technology
 
 ---
 ## *Against Artificial Intelligence*
+
+--
 
 .left-column[
 
@@ -520,14 +624,71 @@ George Matthews, Pennsylvania College of Technology
 ]
 ]
 
+--
 
+.right-list[
+
+- John Searle is an American philosopher who argues that Artificial Intelligence is just not possible.
+
+]
+
+--
+
+.right-list[
+
+- He argues that since all computers can ever do is manipulate symbols according to rules with no understanding of the meaning of those symbols, they will always fail to grasp meaning as human being can.
+
+]
+
+--
+
+.wide-list[
+
+- Thus while we may produce convincing "fake" intelligence,  the prospect of computers actually having minds that grasp meanings is forever beyond our reach.
+
+]
+
+---
+## *Open Questions*
+
+--
+
+The rise of information technology has brought to the forefront philosophical questions about the nature of minds and many questions remain topics of active research and debate.
+
+--
+
+.question[
+
+What is the basis of the "meanings" of the symbols we use to think and communicate?
+
+]
+
+--
+
+.question[
+
+What is consciousness and how do some physical systems, like human beings, manage to "wake up" and have a fully conscious "inner life?"
+
+]
+
+--
+
+.question[
+
+Can we build a machine that should count as truly intelligent?
+
+]
 
 ---
 
 layout: false
 ### *Find out more*
 
+![:jump Where does your mind reside?](https://youtu.be/3SJROTXnmus) This Crash Course video briefly explains the Mind/Body problem.
 
+![:jump Artificial Intelligence and Personhood](https://youtu.be/39EdqUbj92U): another great Crash Course video on philosophical problems related to the concept of Artificial Intelligence.
+
+![:jump Artificial Intelligence](https://youtu.be/9TRv0cXUVQw): this School of Life video describes three different concepts of Artificial Intelligence and the prospects for building a mind in the real world.
 
 
 
@@ -549,8 +710,9 @@ class: center credits
 
 ![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
 
-<!-- *Photos by:* -->
+*Images by:*
 
+![:jump John Hain](https://pixabay.com/users/johnhain-352999/) at Pixabay.
 
 
 [download this presentation](./pdf/04-slides.pdf) or [print it](./pdf/04-handout.pdf)
