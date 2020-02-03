@@ -69,7 +69,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait Descartes, 1596-1650, 80%](img/04/descartes.jpg)
 
@@ -77,7 +77,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
@@ -117,7 +117,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait Elizabeth of Bohemia, 1618-1680, 80%](img/04/elizabeth.jpg)
 
@@ -125,7 +125,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
@@ -155,7 +155,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait Gilbert Ryle, 1900-1976, 80%](img/04/ryle.jpg)
 
@@ -163,7 +163,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
@@ -184,7 +184,7 @@ George Matthews, Pennsylvania College of Technology
 
 .right-list[
 
-- Just like we'd be wrong to seek something called "the desert" alongside of all of the cactus, lizards and sand in Nevada, we are mistaken to look for a thing called a "mind" alongside our bodily parts.
+- Just like we'd be wrong to seek "the desert" alongside of all the cactus, lizards and sand in Nevada, we are mistaken to look for a "mind" alongside our bodily parts.
 
 ]
 
@@ -195,7 +195,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait J.B. Watson, 1878-1958, 80%](img/04/watson.jpg)
 
@@ -203,7 +203,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
@@ -224,7 +224,7 @@ George Matthews, Pennsylvania College of Technology
 
 .right-list[
 
-- Behaviorists claimed that more important than "looking inside" and observing our minds was studying how creatures *with* minds behaved, and ultimately being able to predict and control their behavior.
+- Behaviorists claimed that rather than "looking inside" and observing our minds we should study how creatures *with* minds behave -- proof of understanding would be the ability to predict and control their behavior.
 
 ]
 
@@ -232,7 +232,7 @@ George Matthews, Pennsylvania College of Technology
 
 .wide-list[
 
-- This led to the philosophical view that minds just *were* certain kinds of behavior, and that any talk about minds from the "first person" was not to be trusted.
+- This led to the philosophical view that minds just *were* certain kinds of behavior.
 
 ]
 
@@ -243,7 +243,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait Hilary Putnam, 1926-2016, 80%](img/04/putnam.jpg)
 
@@ -251,7 +251,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
@@ -291,7 +291,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait J.J.C. Smart, 1920-2012, 80%](img/04/smart.jpg)
 
@@ -299,7 +299,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
@@ -339,7 +339,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait Jerry Fodor, 1935-2017, 80%](img/04/fodor.jpg)
 
@@ -347,7 +347,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
@@ -385,7 +385,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait Frank Jackson, 1943- , 80%](img/04/jackson.jpg)
 
@@ -393,7 +393,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
@@ -425,7 +425,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait Jerry Fodor, 1935-2017, 80%](img/04/fodor.jpg)
 
@@ -433,7 +433,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
@@ -465,7 +465,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait Ned Block, 1943 - , 80%](img/04/block.jpg)
 
@@ -473,7 +473,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
@@ -511,7 +511,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait David Chalmers, 1966 - , 80%](img/04/chalmers.jpg)
 
@@ -519,7 +519,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
@@ -559,7 +559,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait Alan Turing, 1912-1954, 80%](img/04/turing.jpg)
 
@@ -567,7 +567,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
@@ -607,7 +607,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-column[
 
-![:vspace 150]()
+![:vspace 120]()
 
 ![:portrait John Searle, 1932- , 80%](img/04/searle.jpg)
 
@@ -615,7 +615,7 @@ George Matthews, Pennsylvania College of Technology
 
 .middletext[
 
-![:vspace 120]()
+![:vspace 90]()
 
 .left-blurb[
 
