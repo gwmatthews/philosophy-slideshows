@@ -153,7 +153,7 @@ Is  morality really just a matter of opinion, or is it subject to rational asses
 
 --
 
-- The second branch of philosophical ethics is meta-ethics which looks at ethics and its general features, again without taking a stance on what might really be right or wrong?
+- The second branch of philosophical ethics is meta-ethics which looks at ethics and its general features, again without taking a stance on what might really be right or wrong.
 
 --
 
@@ -329,7 +329,7 @@ layout: true
 
 .right-list[
 
-- Ultimately the story of "The Grapes of Wrath" shows characters banding together to overcome this idea that "sin" and "virtue" are nothing but subjective opinions.
+- Ultimately the story of *The Grapes of Wrath* shows characters banding together to overcome this idea that "sin" and "virtue" are nothing but subjective opinions.
 
 ]
 
@@ -500,6 +500,29 @@ layout: true
 ]
 
 ---
+.topcap[an argument for psychological egoism]
+
+.argument[
+
+Each one of us can only make decisions for ourselves.
+
+***
+
+Thus all of our decisions are by definition selfish.
+
+]
+
+![:vspace 10]
+
+--
+
+- This simple argument is what leads some people to declare that there just are no "selfless good deeds" to be found anywhere.
+
+--
+
+- But does this follow? Can't we be concerned with others even if we often have *mixed* motives, partly concerned with others and partly self-centered?
+
+---
 
 .left-column[
 
@@ -545,29 +568,6 @@ layout: true
 - .red[Ethical egoists] extend this claim to assert that it is *always* best to look out for ourselves and that by similar mechanisms the good of all will take care of itself.
 
 ]
-
----
-.topcap[an argument for psychological egoism]
-
-.argument[
-
-Each one of us can only make decisions for ourselves.
-
-***
-
-Thus all of our decisions are by definition selfish.
-
-]
-
-![:vspace 10]
-
---
-
-- This simple argument is what leads some people to declare that there just are no "selfless good deeds" to be found anywhere.
-
---
-
-- But does this follow? Can't we be concerned with others even if we often have *mixed* motives, partly concerned with others and partly self-centered?
 
 ---
 .topcap[an argument for ethical egoism]
