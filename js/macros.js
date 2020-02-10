@@ -25,3 +25,10 @@ remark.macros.credited = function (caption, percentage, color) {
 remark.macros.vspace = function (size) {
   return '<div style="height: ' + size + 'px;"><br></div>';
 };
+
+
+remark.macros.colorbox = function (x, y, boxWidth, boxType) {
+  var content = this;
+  return '<div class="' + boxType + '" style="position: absolute; left:' + x + '; top:' + y + '; width: ' + boxWidth +  ';"><p class="inner">'  + content + '</p></div>';
+
+};

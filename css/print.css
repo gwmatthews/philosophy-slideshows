@@ -5,9 +5,15 @@
 --bg-color: #ffffff;
 --box-color-1: #eeeeee;
 --box-color-2: #eeeeee;
+--box-color-3: #eeeeee;
+--box-color-4: #eeeeee;
 --text-color-1: #000000;
 --text-color-2: #666666;
 --text-color-3: #333333;
+--slide-number: #fff;
+--border-color-1: #999;
+--border-color-2: #111;
+--border-color-3: #333;
 --slide-number: #ffffff;
 --link-color: #666666;
 --shadow-color: #ffffff;
@@ -141,6 +147,7 @@ color: var(--text-color-2);
 
 .right-blurb {
   position: relative;
+  left: 1.5em;
   border: 0;
   background-image: url("../img/right-arrow.png");
   background-repeat: no-repeat;
@@ -317,12 +324,19 @@ img.credits h4 {
 }
 
 .middletext {
-  min-width: 54%;
   width: 54%;
   padding: 0;
   margin: 0;
   float: left;
 }
+
+.middlebar {
+  width: 50%;
+  padding: 0;
+  margin: 0;
+  float: left;
+}
+
 
 /* EVEN THREE COLUMN LAYOUT  */
 
@@ -330,3 +344,82 @@ img.credits h4 {
   width: 31%;
 }
 
+/* FIXED POSITION BOXES */ 
+
+.box, .cbox, .fade-cbox, .red-box, .red-cbox {
+  
+  line-height: 1.3;
+}
+
+.box {
+  border: 2px dotted var(--border-color-1);
+  border-radius: 20px;
+  background-color: var(--box-color-1);
+  padding: 8px;
+}
+
+.cbox { 
+  text-align: center;
+  border: 2px dotted var(--border-color-1);
+  border-radius: 20px;
+  background-color: var(--box-color-1);
+  padding: 8px;
+}
+
+.fade-cbox { 
+  text-align: center;
+  border: 2px dotted var(--border-color-2);
+  border-radius: 20px;
+  background-color: var(--box-color-1);
+  padding: 8px;
+  opacity: 0.3;
+}
+
+.red-box {
+  border: 2px solid var(--border-color-2);
+  border-radius: 20px;
+  background-color: var(--box-color-3);
+  padding: 8px;
+}
+  
+.red-cbox {
+  text-align: center;
+  border: 2px solid var(--border-color-2);
+  border-radius: 20px;
+  background-color: var(--box-color-3);
+  padding: 8px;
+}
+
+.blue-box {
+  border: 2px solid var(--border-color-3);
+  border-radius: 20px;
+  background-color: var(--box-color-4);
+  padding: 8px;
+}
+  
+.blue-cbox {
+  text-align: center;
+  border: 2px solid var(--border-color-3);
+  border-radius: 20px;
+  background-color: var(--box-color-2);
+  padding: 8px;
+}
+  
+.red-overlay-box{
+  text-align: center;
+  border: none;
+  border-radius: 20px;
+  background-color: none;
+  padding: 8px;
+  font-style: italic;
+  font-size: 200%;
+  color: red;
+  z-index: 1;
+}
+
+.clear-box {
+  border: none;
+  border-radius: 20px;
+  background-color: none;
+  padding: 8px;
+}
