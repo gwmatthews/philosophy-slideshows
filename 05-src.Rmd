@@ -662,7 +662,11 @@ layout: false
 layout: false
 ### *Find out more*
 
+![:jump Freedom and Determinism](https://youtu.be/vCGtkDzELAI): from the Crash Course video series here is a great account of the tricky debate about freedom and determinism.
 
+![:jump Compatibilism](https://youtu.be/KETTtiprINU): also from the Crash Course, the next in the series about the compatibilist attempt to resolve the problem.
+
+![:jump Free Will](https://www.iep.utm.edu/freewill/): a comprehensive account of the philosophical question of freedom at the *Internet Encylopedia of Philosophy.*
 
 
 
