@@ -183,7 +183,7 @@ layout: true
 
 --
 
-- We hold people responsible for many of their actions and that assumes that they *had* a choice in each case.
+- We hold people responsible for many of their actions and that assumes that they *have a choice* in each case.
 
 --
 
@@ -587,7 +587,7 @@ layout: false
 
 .question[
 
-Maybe we should instead talk about "free won't. After all don't we act freely when we learn to say "no" to our own worst impulses?
+Maybe we should instead talk about "free won't." After all don't we act freely when we learn to say "no" to our own worst impulses?
 
 ]
 
@@ -603,7 +603,7 @@ Maybe we should instead talk about "free won't. After all don't we act freely wh
 
 --
 
-- Responsible adults are presumed to be able to make delibarate choices in this way.
+- Responsible adults are presumed to be able to make deliberate choices in this way.
 
 ---
 layout: false
@@ -645,7 +645,7 @@ layout: false
 
 .right-list[
 
-- For Sartre free action is action that we use to make meaning out of the predicaments we find ourselves, to take what is *given* to us by circumstances and make it *our own.*.
+- For Sartre free action is action that we use to make meaning out of the predicaments in which we find ourselves, to take what is *given* to us by circumstances and make it *our own.*
 
 ]
 
@@ -653,7 +653,7 @@ layout: false
 
 .wide-list[
 
-- Living *autonomously* is a never-ending project of critically reflecting on the causes and conditions which make possible and contrain our lives.
+- Living *autonomously* is a never-ending project of critically reflecting on the causes and conditions which make possible and constrain our lives.
 
 ]
 
@@ -666,7 +666,7 @@ layout: false
 
 ![:jump Compatibilism](https://youtu.be/KETTtiprINU): also from the Crash Course, the next in the series about the compatibilist attempt to resolve the problem.
 
-![:jump Free Will](https://www.iep.utm.edu/freewill/): a comprehensive account of the philosophical question of freedom at the *Internet Encylopedia of Philosophy.*
+![:jump Free Will](https://www.iep.utm.edu/freewill/): a comprehensive account of the philosophical question of freedom at the *Internet Encyclopedia of Philosophy.*
 
 
 
