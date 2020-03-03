@@ -3,7 +3,7 @@ title: "Freedom and Determinism"
 output:
   xaringan::moon_reader:
     seal: false
-    css: ["default", "css/white-chocolate-fonts.css", "css/white-chocolate.css"]
+    css: ["default", "css/fonts.css", "css/white-chocolate.css", "css/slides.css"]
     lib_dir: libs
     nature:
       sourceUrl: "05-src.Rmd"

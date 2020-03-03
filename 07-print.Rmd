@@ -3,7 +3,7 @@ title: "Aesthetics"
 output:
   xaringan::moon_reader:
     seal: false
-    css: ["default", "css/white-chocolate-fonts.css", "css/print.css"]
+    css: ["default", "css/fonts.css", "css/print.css", "css/slides.css"]
     lib_dir: libs
     nature:
       sourceUrl: "07-src.Rmd"
