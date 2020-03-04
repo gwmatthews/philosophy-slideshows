@@ -351,7 +351,7 @@ layout: false
 
 .right-list[
 
-- When we are not free we are caused to do things by external forces; when we are free we *cause ourselves* to certain things.
+- When we are not free we are caused to do things by external forces; when we are free we *cause ourselves* to do certain things.
 
 ]
 
