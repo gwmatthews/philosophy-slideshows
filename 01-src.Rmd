@@ -25,7 +25,7 @@ George Matthews, Pennsylvania College of Technology
 
 --
 
-<br>
+![:vspace 80]()
 
 .middletext[
 

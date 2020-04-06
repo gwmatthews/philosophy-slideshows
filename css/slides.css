@@ -29,7 +29,7 @@ color: var(--title-color);
 
 .red {
   color: var(--highlight-color);
-  font-size: 110%;
+  font-size: 100%;
   text-shadow: 2px 2px 5px var(--shadow-color);
 }
 
@@ -330,7 +330,7 @@ img.credits h4 {
 }
 
 .rightbar {
-  width: 20%;
+  width: 18%;
   height: 92%;
   float: right;
 }

@@ -477,7 +477,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-blurb[
 
-"It makes no sense to say minds result from the brains information processing activity."
+"It makes no sense to say the mind is a result of the brain's information processing activity."
 
 ]
 ]
@@ -571,7 +571,7 @@ George Matthews, Pennsylvania College of Technology
 
 .left-blurb[
 
-"Thinking is computation, and computers can carry out any computation."
+"Thinking is computation, and we can build a computing machine that can carry out any computation."
 
 ]
 ]
@@ -675,7 +675,7 @@ What is consciousness and how do some physical systems, like human beings, manag
 
 .question[
 
-Can we build a machine that should count as truly intelligent?
+Can we build a machine that can really count as truly intelligent?
 
 ]
 
