@@ -203,7 +203,7 @@ What can we know for sure, if anything?
 
 .wide-list[
 
-- Once we start questioning the reliability of knowledge claims how can we ever stop and avoid getting stuck in radical .alert[skepticism]?
+- Once we start questioning the reliability of knowledge claims, how can we ever stop and avoid getting stuck in radical .alert[skepticism]?
 
 ]
 
@@ -236,7 +236,7 @@ What is the basis of scientific claims to knowledge?
 
 .wide-list[
 
-- On what grounds are scientific claims more reliable than guts feelings, instincts, hunches and intuition?
+- On what grounds are scientific claims more reliable than gut feelings, instincts, hunches and intuition?
 
 ]
 
