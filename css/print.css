@@ -1,22 +1,30 @@
 /*  THEME COLORS   */
 
-:root {
 
---bg-color: #fff;
---box-bg-color: #fff;
+
+:root {
+--bg-color: #fff; /*  slide background    */
+--box-bg-color: #eee; /*  box backgrounds    */
 --box-bg-color-2: #fff;
---main-text-color: #222;
+--box-bg-color-3: #eee;
+--box-bg-color-4: #fff;
+--title-color: #222; /*  text   */
+--main-text-color: #222;  
+--text-color-2: #333;
+--text-color-3: #555;
+--text-color-4: #888;
 --box-text-color: #000;
---alert-text-color: #222;
---title-color: #222;
---highlight-color: #000;
---fade-in-color: #111;
---fade-out-color: #666;
+--alert-text-color: #333;
+--link-color: #333;
+--fade-in-color: #333;
+--fade-out-color: #aaa;
 --hide-color: #fff;
---shadow-color: #ccc;
---border-color-1: #bbb;
+--slide-number-color: #fff;
+--shadow-color: #ccc; /*  shadows    */
+--border-color-1: #bbb; /*  borders */
 --border-color-2: #bbb;
 --border-color-3: #bbb;
---slide-number-color: #fff;
+
 }
+
 

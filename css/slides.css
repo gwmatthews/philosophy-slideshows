@@ -14,7 +14,7 @@ body {
 /* COLORS */
 
 a, a > code {
-  color: var(--highlight-color);
+  color: var(--link-color);
   text-decoration: none;
 }
 
@@ -28,13 +28,13 @@ color: var(--title-color);
 }
 
 .red {
-  color: var(--highlight-color);
+  color: var(--alert-color);
   font-size: 100%;
   text-shadow: 2px 2px 5px var(--shadow-color);
 }
 
 .alert {
-  color: var(--highlight-color);
+  color: var(--alert-color);
   font-size: 110%;
 }
 
