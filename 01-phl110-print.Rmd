@@ -1,0 +1,13 @@
+---
+title: "What is philosophy?"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "css/fonts.css", "css/print.css", "css/slides.css"]
+    lib_dir: libs
+    nature:
+      sourceUrl: "01-phl110-src.Rmd"
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js"
+      
+---

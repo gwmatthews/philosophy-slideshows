@@ -1,0 +1,917 @@
+class: middle center
+
+# *Philosophy of Religion*
+
+.red[*reason, faith, belief and doubt*]
+
+![:scale 50%, #ddd;](img/02/peter-h-4.jpg)
+
+George Matthews, Pennsylvania College of Technology
+
+*2020*
+
+---
+## *Perspectives on religion*
+
+--
+
+.red[From inside:] what religious beliefs or practices should I adhere to as someone aware of the mysteries of life and death?
+
+--
+
+.red[From outside:] 
+
+--
+
+- **Religious studies:** what are the practices, beliefs and histories of the many different world religions?
+
+--
+
+- **Sociology:** how do religions work as institutions expressing shared values and social meaning?
+
+--
+
+- **Psychology:** what is going on in the mind when people have religious beliefs and engage in religious practices?
+
+--
+
+- **Philosophy:** can religious beliefs be rationally justified?
+
+---
+## *What is religion anyway?*
+
+.wide-list[
+
+A set of beliefs about the nature of reality and the human place in reality. DOCTRINE.
+
+]
+
+.wide-list[
+
+An attitude towards life. SPIRITUALITY.
+
+]
+
+.wide-list[
+
+A set of practices. LITURGY.
+
+]
+
+.wide-list[
+
+Ways of organizing all of this. RELIGIOUS INSTITUTIONS.
+
+]
+
+
+---
+## *Philosophy of religion*
+
+.left-column[
+
+#### .red[metaphysics]
+
+#### epistemology
+
+#### value theory
+
+]
+
+.top-right[
+
+![:scale 70%, #ccc;](img/02/peter-h-1.jpg)
+
+]
+
+--
+
+![:vspace 160]()
+
+.right-list[
+
+- Does God exist?
+
+]
+
+--
+
+.right-list[
+
+- If so, in what form? As a supernatural being, as identical with nature, as many disembodied spirits?
+
+]
+--
+
+.right-list[
+
+- What does the existence of evil imply about the existence or nature of God or the gods?
+
+]
+
+--
+
+.right-list[
+
+- Is the universe the result of deliberate planning or the result of the blind forces of nature that could easily have been otherwise?
+
+]
+---
+## *Philosophy of religion*
+
+.left-column[
+
+#### metaphysics
+
+#### .red[epistemology]
+
+#### value theory
+
+]
+
+.top-right[
+
+![:scale 70%, #ccc;](img/02/peter-h-2.jpg)
+
+] 
+
+![:vspace 160]()
+
+--
+
+.right-list[
+
+- Can we know whether or not a God or gods exist?
+]
+
+--
+
+.right-list[
+
+- Are appeals to faith to justify religious belief legitimate?
+
+]
+
+--
+
+.right-list[
+
+- Are science and religion in conflict or are they compatible as two different ways of approaching reality?
+
+]
+
+---
+## *Philosophy of religion*
+
+.left-column[
+
+#### metaphysics
+
+#### epistemology
+
+#### .red[value theory]
+
+]
+
+.top-right[
+
+![:scale 70%, #ccc;](img/02/peter-h-5.jpg)
+
+]
+
+![:vspace 160]()
+
+.right-list[
+
+- What is the relation between religion and morality? 
+
+]
+
+--
+
+.right-list[
+
+- Is religion a purely private matter or does it have any role to play in public life?
+
+]
+
+--
+
+.right-list[
+
+- Should parents be allowed to opt out of scientifically established medical treatments for their kids on religious grounds?
+
+]
+
+---
+layout: true
+## *Does God exist?*
+
+.left-column[
+
+#### .red[YES]
+
+#### NO
+
+#### MAYBE
+
+]
+
+---
+
+--
+
+.right-column[
+
+**Theism** is the general term for the belief in the existence of a God or gods.
+
+]
+
+--
+
+.right-list[
+
+- Monotheism: there is only one God, and that God is a being with "personhood," with thoughts, feelings, intentions, free will...
+
+]
+
+--
+
+.right-list[
+
+- Polytheism: there are multiple gods often with many different personalities.
+
+]
+
+--
+
+.right-list[
+
+- Pantheism: God is everywhere or in every thing.
+
+]
+
+---
+
+.right-column[
+
+.caution[
+
+Note that actual religions don't always clearly fit these definitions.
+
+]
+
+]
+
+--
+
+.right-list[
+
+- Hinduism is polytheistic, but Krishna is often seen as the main "God" with many other divinities as Krishna's "avatars" or manifestations.
+
+]
+
+--
+
+.right-list[
+
+- Christianity claims that God is *both* unitary *and* has three separate "persons" -- Father, Son and Holy Spirit.
+
+]
+
+---
+layout: false
+## *Does God exist?*
+
+.left-column[
+
+#### YES
+
+#### .red[NO]
+
+#### MAYBE
+
+]
+
+--
+
+.right-column[
+
+**Atheism** refers to the denial of the existence of God, the gods or a supernatural realm of spirits.
+
+]
+
+--
+
+.right-list[
+
+.caution[
+
+It is sometimes,asserted that it it impossible to "prove a negative," or demonstrate that something does **not** exist or is **not true**. 
+
+But we do this all the time, whenever we show that the existence of something entails a contradiction, or is logically incompatible with other things we know to be true.
+
+]
+]
+
+---
+## *Does God exist?*
+
+.left-column[
+
+#### YES
+
+#### NO
+
+#### .red[MAYBE]
+
+]
+
+--
+
+.right-column[
+
+**Agnosticism** Is the view that we cannot tell for sure whether or not a God exists.
+
+]
+
+--
+
+.right-list[
+
+.caution[
+
+This is more an *epistemological* than a *metaphysical* view -- it concerns what we can *know* and not what exists.
+
+]
+
+]
+
+--
+
+.right-list[
+
+- Buddhism might be considered an agnostic religion since it has many features of religion, yet often denies that metaphysical claims about the ultimate nature of reality matter.
+
+]
+
+
+---
+layout: false
+## *Classic arguments for theism*
+
+.left-column[
+
+<br><br>
+
+![:portrait Saint Thomas Aquinas, 1225-1274, 80%](img/02/aquinas.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"God is evident in basic facts about the world of our experience."
+
+]
+]
+
+--
+
+.right-list[
+
+- Aquinas was an important figure in the history of the Catholic Church.
+
+]
+
+--
+
+.right-list[
+
+- He combined the conceptual framework of Ancient Greek philosophy with Christianity, thus given definitive form to the medieval world-view of the Great Chain of Being, where everything in Nature has its place in a world ruled by God.
+
+]
+
+---
+## *Classic arguments for theism*
+
+.left-column[
+
+<br><br>
+
+![:portrait Saint Thomas Aquinas, 1225-1274, 80%](img/02/aquinas.jpg)
+
+]
+
+--
+
+.topcap[
+
+The Cosmological Argument
+
+]
+
+--
+
+.right-argument[
+
+Everything that exists has a cause.
+
+The universe as a whole exists.
+
+***
+
+So the universe as a whole has a cause -- God.
+
+]
+
+--
+
+.right-column[
+
+- The key idea here is that *this* universe exists and that specific things need specific causes. But *must* this cause be the God of Christianity? 
+
+]
+
+---
+## *Classic arguments for theism*
+
+.left-column[
+
+<br><br>
+
+![:portrait Saint Anselm, 1033-1101, 80%](img/02/anselm.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"Reason alone can show us that God *must* exist."
+
+]
+]
+
+--
+
+.right-list[
+
+- Anselm was an early Medieval philosopher convinced of the power of human reason to make sense of things.
+
+]
+
+--
+
+.right-list[
+
+- His most famous argument is a negative argument that shows that God cannot, *not* exist.
+
+]
+
+---
+## *Classic arguments for theism*
+
+.left-column[
+
+<br><br>
+
+![:portrait Saint Anselm, 1033-1101, 80%](img/02/anselm.jpg)
+
+]
+
+.topcap[
+
+The Ontological Argument
+
+]
+
+--
+
+.right-argument[
+
+We can imagine the existence of a perfect being.
+
+But if such a being *did not exist* it would lack something and so be less than perfect.
+
+***
+
+Thus a perfect being must exist -- God.
+
+]
+
+--
+
+.wide-list[
+
+- Something seems fishy here, but it is hard to see what. 
+
+]
+
+--
+
+.wide-list[
+
+- Can such abstract reasoning do more than just restate our original assumption that we *can* imagine such a being?
+
+]
+
+---
+## *Classic arguments for theism*
+
+.left-column[
+
+<br><br>
+
+![:portrait William Paley, 1743-1805, 80%](img/02/paley.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"The hand of God is visible in the complexity of the natural world."
+
+]
+]
+
+--
+
+.right-list[
+
+- William Paley was an Anglican minister whose "natural theology" was taken to be the best explanation for biological complexity until Darwin challenged it.
+
+]
+
+--
+
+.right-list[
+
+- His argument is still popular among Christian fundamentalists who use it to oppose evolution.
+
+]
+
+---
+## *Classic arguments for theism*
+
+.left-column[
+
+<br><br>
+
+![:portrait William Paley, 1743-1805, 80%](img/02/paley.jpg)
+
+]
+
+.topcap[
+
+Paley's Watch
+
+]
+
+--
+
+.right-argument[
+
+If you found a watch on the beach you'd be right to think it was not a product of chance but of design.
+
+The organisms we "find" in nature are even more complex than a watch.
+
+***
+
+Thus a designer powerful enough to have designed biological organisms must exist -- God.
+
+]
+
+--
+
+.wide-list[
+
+- This argument fails to mention other possible explanations for biological complexity, like the "blind watchmaker" of evolution by natural selection. 
+
+]
+
+---
+## *Faith and the limits of reason*
+
+.top-right[
+
+![:scale 60%, #ccc;](img/02/church-3-valter-cirillio.jpg)
+
+]
+
+<br>
+
+--
+.left-list[
+
+- None of these arguments seem so convincing to modern readers.
+
+]
+
+--
+
+.wide-list[
+
+- Perhaps the Eighteenth Century philosopher Immanuel Kant was right that these kinds of big metaphysical questions cannot be answered in any definite way.
+
+]
+
+--
+
+.wide-list[
+
+- What then about appealing to faith as the basis of religious belief?
+
+]
+
+--
+
+.caution[
+
+Appeals to faith are a double-edged sword. If there are .red[no reasons] offered, only belief, we also have no reason to take such appeals seriously.
+
+]
+
+---
+## *Atheism and the problem of evil*
+
+.left-column[
+
+<br><br>
+
+![:portrait Epicurus, 341-270 BCE, 80%](img/02/epicurus.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"The existence of evil proves that God does not exist."
+
+]
+]
+
+--
+
+.right-list[
+
+- Epicurus was a Greek philosopher who was skeptical of religion and advocated enjoying life to the fullest.
+
+]
+
+--
+
+.right-list[
+
+- He argued against religious belief in an era when it was almost universally accepted.
+
+]
+
+---
+## *Atheism and the problem of evil*
+
+.left-column[
+
+<br><br>
+
+![:portrait Epicurus, 341-270 BCE, 80%](img/02/epicurus.jpg)
+
+]
+
+.topcap[The Argument from Evil]
+
+--
+
+.right-argument[
+
+If there is an all-powerful, all-knowing and all-good God, then evil should not exist.
+
+But evil does exist.
+
+***
+
+Thus such a God does not exist.
+
+]
+
+--
+
+.wide-list[
+
+- One typical response to this argument is to blame evil on human free will -- *we* would be at fault then, and not God.
+
+]
+
+--
+
+.wide-list[
+
+- Can this defense deal with "natural evils" like disease or natural disasters without blaming the victim?
+
+]
+
+---
+## *Belief and uncertainty*
+
+.left-column[
+
+<br><br>
+
+![:portrait Blaise Pascal, 1623-1662, 80%](img/02/pascal.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"We are all compelled to gamble."
+
+]
+]
+
+--
+
+.right-list[
+
+- Blaise Pascal was deeply religious, but also a mathematician and gambler who laid the foundations of probability theory.
+
+]
+
+--
+.right-list[
+
+- Pascal offers an argument in defense of belief in God that assumes that we cannot know for sure whether or not God exists.
+
+]
+
+---
+## *Belief and uncertainty*
+
+.left-column[
+
+<br><br>
+
+![:portrait Blaise Pascal, 1623-1662, 80%](img/02/pascal.jpg)
+
+]
+
+.topcap[Pascal's Wager]
+
+--
+
+.right-argument[
+
+There is no direct evidence for or against God's existence.
+
+But the risk of not believing is far worse than that of believing.
+
+***
+
+Thus we should accept that God exists.
+
+]
+
+--
+
+.wide-list[
+
+- This argument may show that we have a *motive* to believe -- to avoid punishment for unbelief *if* God turns out to exist -- but is that really a *reason* to think the conclusion is true?
+
+]
+
+---
+## *Buddhism*
+
+.left-column[
+
+<br><br>
+
+![:portrait Buddha, 4th Century BCE, 80%](img/02/buddha.jpg)
+
+]
+
+--
+
+.middletext[
+
+<br>
+
+.left-blurb[
+
+"What we believe about ultimate questions is less important than how we live."
+]
+]
+
+--
+
+.right-list[
+
+- Born Siddhartha Gautama, heir to a royal family, the founder of Buddhism sought a solution to the human suffering that inevitably arises from the impermanence of everything and our tendency to cling to things anyway.
+
+]
+
+--
+
+.right-list[
+
+- Buddhism spread throughout Asia and now takes a multitude of forms, but all emphasize self-discipline and not being too attached to things in the world.
+
+]
+
+---
+## *Buddhism*
+
+.left-column[
+
+<br><br>
+
+![:portrait Buddha, 4th Century BCE, 80%](img/02/buddha.jpg)
+
+]
+
+--
+
+.topcap[The Parable of the Arrow]
+
+--
+
+.right-argument[
+
+Arguing about God, the universe and the soul is like arguing about who exactly just shot you with an arrow and why.
+
+It's more important to pull the arrow out.
+
+***
+
+That's what religion too should be about, addressing our suffering.
+
+]
+
+--
+
+.wide-list[
+
+- Is Buddhism even a religion or is it a philosophy, or agnostic spiritual and ethical system? 
+
+]
+
+
+---
+
+layout: false
+### *Find out more*
+ 
+![:jump Anselm and the Argument for God](https://youtu.be/FmTsS5xFA6k): Hank Green explores Anselm's ontological argument in this episode of The Crash Course.
+
+![:jump Aquinas and the Cosmological Arguments](https://youtu.be/TgisehuGOyY): more from the Crash Course, this time dealing with St. Thomas Aquinas' "five ways" to establish the existence of God.
+
+![:jump Religion Facts](http://www.religionfacts.com/): this is a great website for exploring the many varieties of religion from around the world and throughout history.
+
+![:jump Philosophy of Religion](https://www.iep.utm.edu/religion/): a comprehensive overview of the major issues in this sub-field of philosophy from the *Internet Encyclopedia of Philosophy*.
+
+---
+class: center credits
+
+![:scale 50%, #ddd;](img/02/church-4-valter-cirillio.jpg)
+
+#### Credits
+
+*Built with:*
+
+![:jump Rstudio](https://rstudio.com/products/rstudio/) 
+
+![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+*Photos by:*
+
+![:jump Peter H](https://pixabay.com/users/tama66-1032521/) and ![:jump Valter Cirillo](https://pixabay.com/users/valtercirillo-3274677/) at Pixabay
+
+[download this presentation](./pdf/02-phl110-slides.pdf) or [print it](./pdf/02-phl110-handout.pdf)
+
+![:jump editorial suggestions and comments](https://github.com/gwmatthews/philosophy-slideshows/issues): requires a (free) GitHub account.
+
+

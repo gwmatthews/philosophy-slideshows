@@ -1,0 +1,698 @@
+class: middle center
+
+# *Freedom and Determinism*
+
+.red[*How can we be free in a world of causes?*]
+
+![:scale 60%, #ddd;](img/05/gears-prettysleepy1.jpg)
+
+George Matthews, Pennsylvania College of Technology
+
+*2020*
+
+---
+layout: true
+
+### *Living in the Material World*
+
+.left-column[
+
+![:vspace 130]
+
+![:portrait Thomas Hobbes, 1588-1679, 80%](img/05/hobbes.jpg)
+
+]
+
+---
+
+--
+
+.middletext[
+
+![:vspace 130]
+
+.left-blurb[
+
+"What is the heart but a spring, and the nerves but so many strings and the joints but so many wheels giving motion to the whole body?"
+
+]
+]
+
+--
+
+.right-list[
+
+- Hobbes was an early materialist who sought mechanistic explanations for everything humans did.
+
+]
+
+--
+
+.right-list[
+
+- Hobbes' account of the origins of society assumes only that we each seek our own gain and will only cooperate if forced to do so.
+
+]
+
+--
+
+.wide-list[
+
+- In spite of this he does appeal to our ability to *freely choose* to create a society as the moral foundation of the social order. This raises a difficult question...
+
+]
+
+---
+layout: true
+
+### *The Puzzle of Freedom*
+
+---
+
+--
+
+![:colorbox 100px, 130px, 300px, cbox](Everything that happens has a cause.)
+
+![:colorbox 500px, 130px, 300px, cbox](We are often free to choose to do one thing or another.)
+
+![:colorbox 300px, 500px, 300px, cbox](If I am caused to do something I am not free to do otherwise.)
+
+---
+
+![:colorbox 100px, 130px, 300px, cbox](Everything that happens has a cause.)
+
+![:colorbox 500px, 130px, 300px, cbox](We are often free to choose to do one thing or another.)
+
+![:colorbox 300px, 500px, 300px, cbox](If I am caused to do something I am not free to do otherwise.)
+
+![:vspace 170]
+
+.question[
+
+Each of these claims seems to be true on its own, but can they all be true **_at the same time?_** It is hard to see how.
+
+]
+
+---
+
+![:colorbox 100px, 130px, 300px, fade-cbox](Everything that happens has a cause.)
+
+![:colorbox 500px, 130px, 300px, fade-cbox](We are often free to choose to do one thing or another.)
+
+![:colorbox 300px, 500px, 300px, fade-cbox](If I am caused to do something I am not free to do otherwise.)
+
+![:vspace 170]
+
+.argument[
+
+Either we are caused, but not free; free but not caused; or somehow free and caused at the same time. This gives us three philosophical strategies for discussing freedom.
+
+]
+
+
+---
+
+![:colorbox 100px, 130px, 300px, blue-cbox](Everything that happens has a cause.)
+
+![:colorbox 500px, 130px, 300px, fade-cbox](We are often free to choose to do one thing or another.)
+
+![:colorbox 500px, 105px, 300px, red-overlay-box](False)
+
+![:colorbox 300px, 500px, 300px, blue-cbox](If I am caused to do something I am not free to do otherwise.)
+
+![:vspace 170]
+
+.argument[
+
+.red[Determinism] accepts that everything has a cause and that causes and freedom are incompatible, and so **denies that we are really free.**
+
+]
+
+---
+
+![:colorbox 100px, 130px, 300px, fade-cbox](Everything that happens has a cause.)
+
+![:colorbox 100px, 105px, 300px, red-overlay-box](False)
+
+![:colorbox 500px, 130px, 300px, blue-cbox](We are often free to choose to do one thing or another.)
+
+![:colorbox 300px, 500px, 300px, blue-cbox](If I am caused to do something I am not free to do otherwise.)
+
+![:vspace 170]
+
+.argument[
+
+.red[Libertarianism] accepts that we are free and that causes and freedom are incompatible, and so **denies that everything has a cause.**
+
+]
+
+---
+
+![:colorbox 100px, 130px, 300px, blue-cbox](Everything that happens has a cause.)
+
+![:colorbox 500px, 130px, 300px, blue-cbox](We are often free to choose to do one thing or another.)
+
+![:colorbox 300px, 500px, 300px, fade-cbox](If I am caused to do something I am not free to do otherwise.)
+
+![:colorbox 300px, 475px, 300px, red-overlay-box](False)
+
+![:vspace 170]
+
+.argument[
+
+.red[Compatibilism] accepts that we are free and that everything has a cause, and so **denies that causes and freedom are incompatible.**
+
+]
+
+---
+layout: true
+
+### *What's at stake*
+
+---
+
+--
+
+.topcap[Freedom is important]
+
+![:scale 50%, #ddd](img/05/robot-digitial-artist.jpg)
+
+--
+
+- Our lives seem to unfold as a series of real choices.
+
+--
+
+- We hold people responsible for many of their actions and that assumes that they *have a choice* in each case.
+
+--
+
+- Life would seem meaningless without the ability to choose.
+
+---
+
+.topcap[Freedom is mysterious]
+
+![:scale 50%, #ddd](img/05/eye-digital-artist.jpg)
+
+--
+
+- Whatever happens seems to have a cause.
+
+--
+
+- Explaining *anything* seems to involve showing why it had to happen, the mechanisms behind the scenes.
+
+--
+
+- As scientific understanding progresses we may seem more and more like complex machines.
+
+---
+layout: false
+
+### *Determinism*
+
+--
+
+.left-column[
+
+![:vspace 130]
+
+![:portrait Baron D'Holbach, 1723-1789, 80%](img/05/holbach.jpg)
+
+]
+
+--
+
+.middletext[
+
+![:vspace 130]
+
+.left-blurb[
+
+"Man's life is a line that nature commands him to describe upon the surface of the earth without him ever being able to swerve from it."
+
+]
+]
+
+--
+
+.right-list[
+
+- Holbach was impressed by the successes of physics at predicting the motion of objects and foresaw the extension of these successes to explanations of human beings.
+
+]
+
+--
+
+.right-list[
+
+- For him, our sense of freedom is an illusion, a result of us not knowing what causes us to do what we do.
+
+]
+
+--
+
+.wide-list[
+
+- Does it even make sense to *argue* about determinism? If the answer we find compelling is pre-determined why bother saying anything at all?
+
+]
+
+---
+layout: false
+
+### *Libertarianism*
+
+--
+
+.left-column[
+
+![:vspace 130]
+
+![:portrait William James, 1842-1910, 80%](img/05/james.jpg)
+
+]
+
+--
+
+.middletext[
+
+![:vspace 130]
+
+.left-blurb[
+
+"Of two alternative futures ... both may now be really possible, and the one becomes impossible only [when] the other excludes it by becoming real."
+
+]
+]
+
+--
+
+.right-list[
+
+- Libertarians like James defend our common-sense understanding of ourselves as free agents.
+
+]
+
+--
+
+.right-list[
+
+- We experience ourselves as making choices and not as being caused to pick one option over another.
+
+]
+
+--
+
+.wide-list[
+
+- And yet we may wonder whether we can trust our experiences of ourselves. Doesn't science often show us the previously hidden causes of things in our experience?
+
+]
+
+---
+layout: false
+
+### *Compatibilism*
+
+--
+
+.left-column[
+
+![:vspace 130]
+
+![:portrait W.T. Stace, 1886-1967, 80%](img/05/stace.jpg)
+
+]
+
+--
+
+.middletext[
+
+![:vspace 130]
+
+.left-blurb[
+
+"Acts freely done are those acts whose immediate causes are the psychological state in the agent. Acts not freely done [have causes] external to the agent."
+
+]
+]
+
+--
+
+.right-list[
+
+- Stace offers a distinction between two ways we might be caused as a way out of the debate between determinism and libertarianism.
+
+]
+
+--
+
+.right-list[
+
+- When we are not free we are caused to do things by external forces; when we are free we *cause ourselves* to do certain things.
+
+]
+
+--
+
+.wide-list[
+
+- Does this account of human freedom simply offer one mystery in place of another? Let's look more closely...
+
+]
+
+---
+layout: true
+
+### *Reasons and causes*
+
+---
+
+--
+
+.caution[
+
+Maybe the debate about freedom and determinism is the wrong debate.
+
+]
+
+--
+
+![:vspace 50]()
+
+- We can be *caused* to do things in a variety of ways, pushed by internal and external forces acting on us.
+
+--
+
+- Some of these involve having *good reasons* to do one thing or another.
+
+--
+
+- Is this is the key to understanding how and when we are free?
+
+--
+
+![:vspace 50]
+
+.red[Consider some examples...]
+
+---
+
+.leftbar[
+
+![:vspace 150]()
+
+![:portrait , , 80%](img/05/pam.jpg)
+
+]
+
+.middlebar[
+
+![:vspace 100]()
+
+.left-blurb[
+
+I am not going to work today because I quit.
+
+]
+
+]
+
+--
+
+![:vspace 10]()
+
+.middlebar[
+
+![:vspace 100]()
+
+.right-blurb[
+
+I am not going to work today because I got fired.
+
+]
+
+]
+
+.rightbar[
+
+![:vspace 10]()
+
+![:portrait , , 80%](img/05/dwight.jpg)
+
+]
+
+--
+
+![:colorbox 8%, 500px, 84%, clearbox](We may quit a job because it doesn't fit in with our carefully considered plans, but given the role of bosses in our society getting fired leaves us no choice.)
+
+
+---
+
+.leftbar[
+
+![:vspace 150]()
+
+![:portrait , , 80%](img/05/kelly.jpg)
+
+]
+
+.middlebar[
+
+![:vspace 100]()
+
+.left-blurb[
+
+I gave money to charity because I wanted to help.
+
+]
+
+]
+
+--
+
+![:vspace 10]()
+
+.middlebar[
+
+![:vspace 100]()
+
+.right-blurb[
+
+I gave money to the man who pointed a gun at me.
+
+]
+
+]
+
+.rightbar[
+
+![:vspace 10]()
+
+![:portrait , , 80%](img/05/kevin.jpg)
+
+]
+
+--
+
+![:colorbox 8%, 500px, 84%, clearbox](Threats of force are ways of coercing us to go against our own wishes, acts of charity reflect our own wishes to help others.)
+
+---
+
+.leftbar[
+
+![:vspace 150]()
+
+![:portrait , , 80%](img/05/boss.jpg)
+
+]
+
+.middlebar[
+
+![:vspace 100]()
+
+.left-blurb[
+
+I take drugs because I want to relax after a long day at work.
+
+]
+
+]
+
+--
+
+![:vspace 10]()
+
+.middlebar[
+
+![:vspace 100]()
+
+.right-blurb[
+
+I take drugs because I am hopelessly addicted and can't stop myself.
+
+]
+
+]
+
+.rightbar[
+
+![:vspace 10]()
+
+![:portrait , , 80%](img/05/john.jpg)
+
+]
+
+--
+
+![:colorbox 8%, 500px, 84%, clearbox](Addictions can trap us since they can affect brain physiology such that our ability to say "no" to our own impulses is impaired. The line between responsible adult use of potentially addictive substances and behaviors and addiction can be fuzzy.)
+
+---
+layout: false
+
+### *Free will?*
+
+--
+
+.question[
+
+The idea that we have something called free will is difficult to explain. What might possibility explain our ability to initiate actions freely while nothing else that exists seems to have this power?
+
+]
+
+--
+
+![:vspace 20]()
+
+- Traditionally it was held to be a special power of the human soul, that which connects us with the being who most exemplifies free will, God.
+
+--
+
+- Many scientists doubt that such a power exists and so refer to freedom as an illusion, similar to the illusion that the sun moves in the sky while in fact it is the earth that moves on its own axis. 
+
+--
+
+![:vspace 20]()
+
+.red[But what then about legal and moral concepts of freedom that seem essential to our social lives and understanding of ourselves?]
+
+---
+layout: false
+
+### *Free won't!*
+
+--
+
+.question[
+
+Maybe we should instead talk about "free won't." After all don't we act freely when we learn to say "no" to our own worst impulses?
+
+]
+
+--
+
+![:vspace 20]()
+
+- Human freedom depends on the region at the front of the brain called the "pre-frontal cortex" which serves to *prevent* impulses to act from going further. 
+
+--
+
+- Many streams of brain activity, ranging from our instinctual and emotional impulses to our symbolic reasoning, converge here giving us the ability to filter out some impulses and pursue some others based on conscious thought processes.
+
+--
+
+- Responsible adults are presumed to be able to make deliberate choices in this way.
+
+---
+layout: false
+
+### *Existentialism and freedom*
+
+--
+
+.left-column[
+
+![:vspace 130]
+
+![:portrait Jean Paul Sartre, 1905-1980, 80%](img/05/sartre.jpg)
+
+]
+
+--
+
+.middletext[
+
+![:vspace 130]
+
+.left-blurb[
+
+"Freedom is what you do with what's been done to you."
+
+]
+]
+
+--
+
+.right-list[
+
+- Sartre's existentialism focuses on our experiences of our lives as we live them "from inside."
+
+]
+
+--
+
+.right-list[
+
+- For Sartre free action is action that we use to make meaning out of the predicaments in which we find ourselves, to take what is *given* to us by circumstances and make it *our own.*
+
+]
+
+--
+
+.wide-list[
+
+- Living *autonomously* is a never-ending project of critically reflecting on the causes and conditions which make possible and constrain our lives.
+
+]
+
+
+---
+layout: false
+### *Find out more*
+
+![:jump Freedom and Determinism](https://youtu.be/vCGtkDzELAI): from the Crash Course video series here is a great account of the tricky debate about freedom and determinism.
+
+![:jump Compatibilism](https://youtu.be/KETTtiprINU): also from the Crash Course, the next in the series about the compatibilist attempt to resolve the problem.
+
+![:jump Free Will](https://www.iep.utm.edu/freewill/): a comprehensive account of the philosophical question of freedom at the *Internet Encyclopedia of Philosophy.*
+
+
+
+
+
+
+
+---
+class: center credits
+
+![:scale 60%, #ddd;](img/05/gears-2-prettysleepy1.jpg)
+
+#### Credits
+
+*Built with:*
+
+![:jump Rstudio](https://rstudio.com/products/rstudio/) 
+
+![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+*Images by:*
+
+![:jump Pretty Sleepy Art](https://pixabay.com/users/prettysleepy1-2855492/), ![:jump Pete Linforth](https://pixabay.com/users/thedigitalartist-202249/)
+
+[download this presentation](./pdf/05-phl110-slides.pdf) or [print it](./pdf/05-phl110-handout.pdf)
+
+![:jump editorial suggestions and comments](https://github.com/gwmatthews/philosophy-slideshows/issues): requires a (free) GitHub account.
+
+

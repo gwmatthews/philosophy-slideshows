@@ -1,0 +1,12 @@
+---
+title: "Philosophy of Mind"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "css/fonts.css", "css/print.css", "css/slides.css"]
+    lib_dir: libs
+    nature:
+      sourceUrl: "04-phl110-src.Rmd"
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js" 
+--- 

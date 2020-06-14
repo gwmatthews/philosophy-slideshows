@@ -14,4 +14,4 @@ LaTeX: pdfLaTeX
 
 AutoAppendNewline: Yes
 
-BuildType: Makefile
+BuildType: None
