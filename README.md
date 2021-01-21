@@ -10,4 +10,4 @@ This is a collection of slideshows for use in online courses I teach. They were 
 - [philosophy of mind](04-phl110-slides.html)
 - [freedom and determinism](05-phl110-slides.html)
 - [theory of knowledge](06-phl110-slides.html)
-- [test](Test.html)
+
