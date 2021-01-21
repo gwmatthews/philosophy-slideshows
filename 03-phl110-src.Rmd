@@ -195,7 +195,7 @@ What moral principles are really justified and what is it that we should actuall
 
 --
 
-- **Egoism**: morality is mistaken, we should our ourselves first.
+- **Egoism**: morality is mistaken, we should put our ourselves first.
 
 --
 
@@ -413,7 +413,7 @@ layout: true
 
 .right-list[
 
-- A good person is one who follows a middle path between extremes -- exhibiting courage and generosity and not either cowardice or fearfulness; or excessive giving or stinginess.
+- A good person is one who follows a middle path between extremes -- exhibiting courage and generosity and not either cowardice or recklessness; or excessive giving or stinginess.
 
 ]
 
@@ -433,7 +433,7 @@ layout: true
 
 By nature we have certain capacities built-in to us, such as the ability to reason and participate in public life.
 
-Its best to follow what nature dictates.
+It is always best to do what nature dictates.
 
 ***
 
@@ -764,7 +764,7 @@ Rationality requires consistency, so these kinds of things are irrational to do.
 
 --
 
-- In all cases, I assume and demand respect from others (that they should tell me the truth, respect my property, not harm me), while disrespecting others by using them as a means to me ends.
+- In all cases, I assume and demand respect from others (that they should tell me the truth, respect my property, not harm me), while disrespecting others by using them as a means to my ends.
 
 --
 

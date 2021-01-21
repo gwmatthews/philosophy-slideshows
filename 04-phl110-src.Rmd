@@ -176,7 +176,7 @@ George Matthews, Pennsylvania College of Technology
 
 .right-list[
 
-- Gilbert Ryle offers a diagnosis of where Descartes went wrong. He thought of the mind as a kind of "thing" and not as a "higher-order" description of what certain kinds of creatures *with* minds do.
+- Gilbert Ryle offers a diagnosis of where Descartes went wrong.  Descartes, in Ryle's view wrongly views the mind as a "thing" and not as a "higher-order" description of what those creatures *with* minds do.
 
 ]
 
